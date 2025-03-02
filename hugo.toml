@@ -10,7 +10,7 @@ summaryLength = 70
 
 [params]
     author = "Mathis Burger"
-    description = "A description for my website"
+    description = "My personal blog"
 
     posts = "posts"
     showPostsLink = true
@@ -19,48 +19,46 @@ summaryLength = 70
     showSinglePageAsHome = false
     homeSinglePage = "/home"
 
-    # It's best to put these icons in the "static" folder of your site
-    logo = "/logo.svg"
-    favicon = "/favicon.png"  # 32x32
-    faviconIco = "/favicon.ico"  # 32x32
-    appletouch = "/apple-touch-icon.png"  # 180x180
-    svgicon = "/logo.svg"
-    icon512 = "/icon512.png"  # 512x512 png image
+    logo = "/logo.jpg"
+    favicon = "/logo.jpg"  # 32x32
+    faviconIco = "/logo.jpg"  # 32x32
+    appletouch = "/logo.jpg" # 180x180
+    svgicon = "/logo.jpg"
+    icon512 = "/logo.jpg"  # 512x512 png image
 
-    logoRightOfTitle = false  # positions the logo to the right of the title; default: false
+    logoRightOfTitle = false 
 
-    showTags = true  # show the Tags menu item; default true
-    showRss = true  # show the link for the RSS feed; default true
+    showTags = true
+    showRss = true
 
-    imageInArticlePreview = false  # show images in article preview; default false
-    fitImageInArticlePreview = false  # make article preview images fit the article preview instead of getting cropped
-    articleSummary = true  # show a summary in article preview; default true
+    imageInArticlePreview = false
+    fitImageInArticlePreview = true
+    articleSummary = true
     
-    fontFamily = "JetBrains Mono"  # changes the font, default "JetBrains Mono"
-    titleFontFamily = "JetBrains Mono"  # font used for titles and headings
-    monospaceFontFamily = "JetBrains Mono"  # changes the monospace font for code, default "JetBrains Mono"
+    fontFamily = "JetBrains Mono"
+    titleFontFamily = "JetBrains Mono"
+    monospaceFontFamily = "JetBrains Mono"
 
-    # multipliers applied to font sizes, useful for custom fonts that may be too big or too small
     titleFontSizeMultiplier = 1.0
     mainFontSizeMultiplier = 1.0
     monoFontSizeMultiplier = 1.0
 
-    contentWidth = "1000px"  # maximum width of the site content, css syntax
+    contentWidth = "1000px" 
 
-    paperCards = false  # enable paper card style; default false
-    buttonTags = false  # enable button tag style; default false
-    tagsInArticlePreview = true  # enable tags list in the article preview card
-    gridView = false  # show post list as a grid. goes well with paperCards
-    bigArticleTitle = false  # makes the title in the single article view bigger
-    navtype = "standard"  # changes the style of the pagination, available styles are: "standard", "circles"
-    enableShadow = false  # shows a shadow around some elements
-    menuStyle = "standard"  # changes the style of the main site navigation menu, available styles are: "standard", "buttons"
-    inputStyle = "standard" # changes the style of inputs (like the searchbar), available styles are: "standard", "buttons"
+    paperCards = false
+    buttonTags = true
+    tagsInArticlePreview = true
+    gridView = false
+    bigArticleTitle = true
+    navtype = "standard"
+    enableShadow = false
+    menuStyle = "standard" 
+    inputStyle = "standard"
 
-    enableSearch = true  # enable search page
-    searchbarEverywhere = true  # if the searchbar should be shown in every page; requires enableSearch
-    searchMenuLink = false  # add a search link to the navigation menu; requires enableSearch
-    mobileHamburgerNav = false  # alternative hamburger menu layout for the main nav menu when screen is small
+    enableSearch = true
+    searchbarEverywhere = true
+    searchMenuLink = true
+    mobileHamburgerNav = true
 
     enableFeatured = false  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
     underlineTitleLinks = false
@@ -71,11 +69,11 @@ summaryLength = 70
     #cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
 
     # enable analytics using Plausible
-    plausibleScriptUrl = "https://something.com/..."
-    plausibleDomain = "example.com"
+    plausibleScriptUrl = "https://analytics.mathis-burger.de/js/script.js"
+    plausibleDomain = "blog.mathis-burger.de"
 
-    enableShareOnFediverse = false  # enable a button at the end of an article to share it on the fediverse
-    tocBeforeImage = false  # show the table of contents before the main article image; default false
+    enableShareOnFediverse = false
+    tocBeforeImage = false 
     enableSidebarLayout = false
     forceRedirect = false
 
