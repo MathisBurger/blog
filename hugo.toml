@@ -1,0 +1,4 @@
+baseURL = 'https://blog.mathis-burger.de'
+languageCode = 'en-us'
+title = 'Mathis Burger Blog'
+theme = 'risotto'
