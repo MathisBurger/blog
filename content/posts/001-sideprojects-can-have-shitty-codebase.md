@@ -4,6 +4,7 @@ date: 2025-03-02T19:08:53+01:00
 tags:
   - sideprojects
   - code-quality
+  - learning
 ---
 
 In the last days I have been working on an side project which uses PHP and [Laravel](https://laravel.com/). You might have to know, that I have never been using Laravel before in my entire life. I have worked with other PHP frameworks like [Symfony](https://symfony.com/) for my entire professional career and thought: Why not try out something new?
@@ -15,14 +16,14 @@ I think many people do feel like this. They want to try something new, they have
 
 Well you know, I am a more practial person. When I want to learn something new I cannot just do the examples and walkthrough all the playground the language or framework might offer. The approach I learn the most is that I actually do a project with this framework or language. I have spoken to many people and most of them can agree on this. Learning it the practical way through a project is way more fun. You can see your actual progress.
 
-I have a pretty long list of sideproject ideas I want to develop some day. And for learning Laravel I just picked one of the many ideas. In this case it was just a simple web application where my friends and I can create fun bets and place our bets on it. Pretty simple. Not that complex. I also added some requirements to check out the abilities of the framework and how nice and easy things are to develop with it. Some examples for that are Localization or Notifications in the web app itself. 
+I have a pretty long list of sideproject ideas I want to develop some day. And for learning Laravel I just picked one of the many ideas. In this case it was just a simple web application where my friends and I can create fun bets and place our bets on it. Pretty simple. Not that complex. I also added some requirements to check out the abilities of the framework and how nice and easy things are to develop with it. Some examples for that are localization or notifications in the web app itself. 
 
 In my opinion this is a pretty good deal. You are actually doing some of your side project ideas and at the same time learning something new. Semms like a world without any problems. Well, it is not that easy...
 
 
 ## The learning curve
 
-When you learning something new, there are often some patterns or best practises you do not know yet. You maybe would have known them, if you first have read the docs. But let`s be honest: Most people do read the docs, but when actually developing something they might forget things. You cannot know anything. The knowledge comes from experience. It comes from failing and 10 hours of debugging over a simple problem rather than from preparing by reading the docs. 
+When you learning something new, there are often some patterns or best practises you do not know yet. You maybe would have known them, if you first have read the docs. But let's be honest: Most people do read the docs, but when actually developing something they might forget things. You cannot know everything. The knowledge comes from experience and repetition. It comes from failing and 10 hours of debugging over a simple problem rather than from preparing by reading the docs. 
 
 But while you are learning the framework or language you are getting better in it. After a few hours or days you get to know the basic patterns. In case of Laravel you learn how the ORM works and how database connections are used. You learn how to implement controllers and how to use Blade. But you also learn about best practises for the file structure of your components. 
 
@@ -34,22 +35,15 @@ After you have learnt a lot about this new technology, you might take a look at 
 
 Now you have got two options. Keep it like it is or start refactoring everything. Depending on the size of your projet this could take a huge amount of time. At this point you might think it would have been better to read the documentation in the first place, but I actually do not agree with this. Think about what would have happend if you just have read the documentation: Sure, you might have followed some of the best practises. But I would never have learned nearly as much. 
 
-When I think about my experience with Laravel I remember some big debugging session where I tried to find out how things worked. I digged deep into the internals of the framework to understand how it works under the hood instead of just knowing the things I need to know in order to get the job done. Sure the first approach would have been easier, but for later issues I know how to solve problems because I know how things work. So even if you are now in the need of refactoring your whole side project, you have learned some serios skills.
+When I think about my experience with Laravel I remember some big debugging session where I tried to find out how things worked. I digged deep into the internals of the framework to understand how it works under the hood instead of just knowing the things I need to know in order to get the job done. Sure the first approach would have been easier, but for later issues I know how to solve problems because I know how things work. So even if you are now in the need of refactoring your whole side project, you have learned some serios skills. Sure, picking the fastest way to get the job done is not bad. But on the long term, the harder approach might actually help to to get the job done faster.
 
 ## Your sideproject is no system critical infrastructure
 
-But there is still the question whether you should refactor your whole codebase or not. I would say it depends. It`s a pretty personal question. I personally would always try to refactor it. If the result is not worth the effort you can limit your refactoring efforts to the basics. But what you should keep in mind is that your side project is no system critical infrastructure.
+But there is still the question whether you should refactor your whole codebase or not. I would say it depends. It's a pretty personal question. I personally would always try to refactor it. If the result is not worth the effort you can limit your refactoring efforts to the basics. But what you should keep in mind is that your side project is no system critical infrastructure.
 
 Lets be honest, most of us start a side project without actual planning. We got this idea and start coding right away. No Use-Case analysis. No UML class diagrams. Maybe some component designs, but even this happens pretty rarely for side projects only speaking for me. The main purpose of side projects is to have fun. We are not building the backend of any billion dollar enterprise here. These projects are not made to be like that. Side projects should give the developer the freedom to do whatever they want without any restrictions in component design or even best practises. These projects are made to make fun.
 
 So please stop overengineering your side projects. If you are realistic, the main users of such a project will be you and your friends in most cases. There is no need to think about a microservice architecture in order to scale to 1.000.000 users at the same time. But if you like thinking about these problems go ahead and do so. 
-
-
-## Imposter syndrome?
-
-In all of this, I also want to talk about imposter syndrome. I am pretty sure I am not the only one who gets it when learning new things. You always think your dump and the last person in this "competition". But what most people forget is, that even the people who have built the framework you are trying to learn were at the same point as you in the past. Sure, they might have a faster learning curve than you, but this doesn`t matter. 
-
-When your failing this is the sign that you can only can get better from this point. Please keep this in mind.
 
 ## But should I read the docs?
 
@@ -63,3 +57,13 @@ Let me give you an example for that: In my professional career I am currently wo
 
 
 ## Conslusion
+
+But what can you learn from all this? Side projects main focus is to have fun. You should not commit yourself to some restrictions you gave yourself. They are ideal to learn something new, because they are seperated hard commitments which gives you more space to do some experiments or make your mistakes and learn from them. And yes, your code will look pretty shitty and you will need to refactor it. But take a look at your first projects with the technology your currently most proficient with: Aren't they pretty shitty too? You always improve. And if you want to you can refactor your project afterwards with the new experience and expertise you have gained so far.
+
+The second takeaway from all this is, that you should definetly read the docs. But you should also challange yourself. Don't make it too easy for yourself. If learning a new technology was easy for you, you didn't really learned something. Sure things might be really similar, but if things were no different, they are the same. So try solving a problem without reading the docs or asking a chatbot, but try to find out how things work and how you can use them. This leads in a matter of fact to more expertise than just reading the docs, because you actually know the thing and know how it works. You are experienced with it and not only read about it. 
+
+So never stop learning and never stop challanging yourself, because this would lead to not learning anything. Failing makes you better at programming than reading.
+
+An motivational quote for you:
+
+*Just let them know that we have a finite amount of time on this planet and you can be viciously mediocre or you can get the fuck after it.* ~ idk who said that
