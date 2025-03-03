@@ -1,5 +1,5 @@
 ---
-title: "Your sideprojects code can be shitty"
+title: "Your learning sideprojects code can be shitty"
 date: 2025-03-02T19:08:53+01:00
 tags:
   - sideprojects
@@ -36,6 +36,8 @@ After you have learnt a lot about this new technology, you might take a look at 
 Now you have got two options. Keep it like it is or start refactoring everything. Depending on the size of your projet this could take a huge amount of time. At this point you might think it would have been better to read the documentation in the first place, but I actually do not agree with this. Think about what would have happend if you just have read the documentation: Sure, you might have followed some of the best practises. But I would never have learned nearly as much. 
 
 When I think about my experience with Laravel I remember some big debugging session where I tried to find out how things worked. I digged deep into the internals of the framework to understand how it works under the hood instead of just knowing the things I need to know in order to get the job done. Sure the first approach would have been easier, but for later issues I know how to solve problems because I know how things work. So even if you are now in the need of refactoring your whole side project, you have learned some serios skills. Sure, picking the fastest way to get the job done is not bad. But on the long term, the harder approach might actually help to to get the job done faster.
+
+Sure, you might have done it the wrong way, when you tried to fix the problem on your own. There might be an abstraction of the language or framework that makes things easier. You could have used it right away, but now you know a bit more about your technology and how it works. It's still a win.
 
 ## Your sideproject is no system critical infrastructure
 
