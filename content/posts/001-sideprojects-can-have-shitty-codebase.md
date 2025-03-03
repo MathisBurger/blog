@@ -1,6 +1,6 @@
 ---
 title: "Your learning sideprojects code can be shitty"
-date: 2025-03-02T19:08:53+01:00
+date: 2025-03-03T12:00:00+01:00
 tags:
   - sideprojects
   - code-quality
