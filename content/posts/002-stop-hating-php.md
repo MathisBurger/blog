@@ -1,6 +1,6 @@
 ---
 title: "Stop hating PHP"
-date: 2025-03-03T10:00:00+01:00
+date: 2025-03-10T10:00:00+01:00
 tags:
   - php
   - frameworks
