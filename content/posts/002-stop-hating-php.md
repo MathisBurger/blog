@@ -35,8 +35,24 @@ because PHP has evolved to be a pretty decent language.
 
 ## Ecosystem
 
-- Continue here...
+- The PHP ecosystem is the reason why I actually like PHP a lot. 
+- Frameworks like Symfony or Laravel are well integrated and actually pretty fun to use. 
+- Almost anything you want can be done using them as long as it is web development. 
+- There is also support for integrating front-end frameworks like React, Vue and so on. 
+- I have been working for about 3 years professionally now in the Symfony environment and I never had a scenario where the framework itself or a third party library couldn't get the job done. 
 
-## PHP developers drive Lambo
+## PHP developers drive Lambo (maybe remove)
+
+- There are often people joking that all PHP developers drive a Lambo.
+- Well as you might imagine, this is far from the truth, but the core intentions of these jokes is, 
+that PHP was the choice of many startups in the early days. Facebook for example initially used PHP.
+- PHP is popular as a language with that you can just get the job done. You do not have to worry about memory allocation, etc.
+- Therefore, it is not as fast as other modern programming languages, but it serves it's purpose. You can get the job done efficiently and effectively. But you might not drive a Lambo.
 
 ## Conclusion
+
+- Overall you can say, PHP was a pretty bad language in the early days and was it even in the 2010s.
+- But today PHP is a pretty solid choice for your web projects. PHP itself got many modern features and is still evolving to get better over time.
+- With composer as a package manager and a well integrated ecosystem of all the frameworks out there, PHP is definetly a good choice for modern web development. 
+
+I would recommend you to just give it a shot and try it out yourself. You will love it. 
