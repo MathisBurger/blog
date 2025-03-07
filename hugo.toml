@@ -64,9 +64,9 @@ summaryLength = 70
     underlineTitleLinks = false
 
     # enable comments support with cactus comments (cactus.chat)
-    #cactusCommentsSiteName = "example.com"
-    #cactusCommentsServerName = "cactus.chat"
-    #cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
+    cactusCommentsSiteName = "blog.mathis-burger.de"
+    #cactusCommentsServerName = "mathis-burger.de"
+    #cactusCommentsHomeserver = "https://matrix.mathis-burger.de:443"
 
     # enable analytics using Plausible
     plausibleScriptUrl = "https://analytics.mathis-burger.de/js/script.js"
