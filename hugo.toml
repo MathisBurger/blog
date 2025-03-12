@@ -63,10 +63,7 @@ summaryLength = 70
     enableFeatured = false  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
     underlineTitleLinks = false
 
-    # enable comments support with cactus comments (cactus.chat)
-    cactusCommentsSiteName = "blog.mathis-burger.de"
-    #cactusCommentsServerName = "mathis-burger.de"
-    #cactusCommentsHomeserver = "https://matrix.mathis-burger.de:443"
+    commento = "https://commento.mathis-burger.de/js/commento.js"
 
     # enable analytics using Plausible
     plausibleScriptUrl = "https://analytics.mathis-burger.de/js/script.js"
