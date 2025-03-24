@@ -2,6 +2,7 @@
 title: Impress
 norss: true
 showDate: false
+comments: false
 ---
 
 Mathis Burger
