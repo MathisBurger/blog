@@ -75,25 +75,25 @@ summaryLength = 70
     forceRedirect = false
 
     infiniteScrolling = false
-    enableFooterColumns = false
+    enableFooterColumns = true
     enableJumbotron = false
     enableRelatedArticles = true
     relatedArticlesNum = 2
     randomRelated = true
 
 [menu]
-    [[menu.icons]]
-        identifier = "github"
-        name = "Github"
-        url = "https://github.com/MathisBurger"
-        weight = 10
-    [[menu.icons]]
-        identifier = "twitter"
-        name = "Twitter"
-        url = "https://x.com/MathisBurger4"
-        weight = 20
-    [[menu.icons]]
-        identifier = "linkedIn"
-        name = "LinkedIn"
-        url = "https://linkedin.com/in/mathis-burger-93614222b"
-        weight = 30
+[[menu.icons]]
+identifier = "github"
+name = "Github"
+url = "https://github.com/MathisBurger"
+weight = 10
+[[menu.icons]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://x.com/MathisBurger4"
+weight = 20
+[[menu.icons]]
+identifier = "linkedIn"
+name = "LinkedIn"
+url = "https://linkedin.com/in/mathis-burger-93614222b"
+weight = 30
