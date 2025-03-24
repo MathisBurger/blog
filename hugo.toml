@@ -9,76 +9,77 @@ summaryLength = 70
 
 
 [params]
-author = "Mathis Burger"
-description = "My personal blog"
+    author = "Mathis Burger"
+    description = "My personal blog"
 
-posts = "posts"
-showPostsLink = true
+    posts = "posts"
+    showPostsLink = true
+    extraContentDirs = []
+    showcaseDir = "showcase"
+    showSinglePageAsHome = false
+    homeSinglePage = "/home"
 
-logo = "/logo.jpg"
-favicon = "/logo.jpg"    # 32x32
-faviconIco = "/logo.jpg" # 32x32
-appletouch = "/logo.jpg" # 180x180
-svgicon = "/logo.jpg"
-icon512 = "/logo.jpg"    # 512x512 png image
+    logo = "/logo.jpg"
+    favicon = "/logo.jpg"  # 32x32
+    faviconIco = "/logo.jpg"  # 32x32
+    appletouch = "/logo.jpg" # 180x180
+    svgicon = "/logo.jpg"
+    icon512 = "/logo.jpg"  # 512x512 png image
 
-logoRightOfTitle = false
+    logoRightOfTitle = false 
 
-showTags = true
-showRss = true
+    showTags = true
+    showRss = true
 
-imageInArticlePreview = false
-fitImageInArticlePreview = true
-articleSummary = true
+    imageInArticlePreview = false
+    fitImageInArticlePreview = true
+    articleSummary = true
+    
+    fontFamily = "JetBrains Mono"
+    titleFontFamily = "JetBrains Mono"
+    monospaceFontFamily = "JetBrains Mono"
 
-fontFamily = "JetBrains Mono"
-titleFontFamily = "JetBrains Mono"
-monospaceFontFamily = "JetBrains Mono"
+    titleFontSizeMultiplier = 1.0
+    mainFontSizeMultiplier = 1.0
+    monoFontSizeMultiplier = 1.0
 
-titleFontSizeMultiplier = 1.0
-mainFontSizeMultiplier = 1.0
-monoFontSizeMultiplier = 1.0
+    contentWidth = "1000px" 
 
-contentWidth = "1000px"
+    paperCards = false
+    buttonTags = true
+    tagsInArticlePreview = true
+    gridView = false
+    bigArticleTitle = true
+    navtype = "standard"
+    enableShadow = false
+    menuStyle = "standard" 
+    inputStyle = "standard"
 
-paperCards = false
-buttonTags = true
-tagsInArticlePreview = true
-gridView = false
-bigArticleTitle = true
-navtype = "standard"
-enableShadow = false
-menuStyle = "standard"
-inputStyle = "standard"
+    enableSearch = true
+    searchbarEverywhere = true
+    searchMenuLink = true
+    mobileHamburgerNav = true
 
-enableSearch = true
-searchbarEverywhere = true
-searchMenuLink = true
-mobileHamburgerNav = true
+    enableFeatured = false  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
+    underlineTitleLinks = false
 
-enableFeatured = false      # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
-underlineTitleLinks = false
+    commento = "https://commento.mathis-burger.de/js/commento.js"
 
-# enable comments support with cactus comments (cactus.chat)
-cactusCommentsSiteName = "blog.mathis-burger.de"
-#cactusCommentsServerName = "mathis-burger.de"
-#cactusCommentsHomeserver = "https://matrix.mathis-burger.de:443"
+    # enable analytics using Plausible
+    plausibleScriptUrl = "https://analytics.mathis-burger.de/js/script.js"
+    plausibleDomain = "blog.mathis-burger.de"
 
-# enable analytics using Plausible
-plausibleScriptUrl = "https://analytics.mathis-burger.de/js/script.js"
-plausibleDomain = "blog.mathis-burger.de"
+    enableShareOnFediverse = false
+    tocBeforeImage = false 
+    enableSidebarLayout = false
+    forceRedirect = false
 
-enableShareOnFediverse = false
-tocBeforeImage = false
-enableSidebarLayout = false
-forceRedirect = false
-
-infiniteScrolling = false
-enableFooterColumns = true
-enableJumbotron = false
-enableRelatedArticles = true
-relatedArticlesNum = 2
-randomRelated = true
+    infiniteScrolling = false
+    enableFooterColumns = true
+    enableJumbotron = false
+    enableRelatedArticles = true
+    relatedArticlesNum = 2
+    randomRelated = true
 
 [menu]
 [[menu.icons]]
