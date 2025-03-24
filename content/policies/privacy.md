@@ -2,7 +2,7 @@
 title: Privacy
 norss: true
 showDate: false
-toc: false
+comments: false
 ---
 
 # Datenschutz­erklärung
