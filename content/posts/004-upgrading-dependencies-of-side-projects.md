@@ -34,14 +34,18 @@ Finally, there is a more emotional factor: I actually like the codebase. The cod
 
 ## What was my final decision and why?
 
-- The total required effort, the low amount of users and the low security risk were factors that heavily stated that I should not upgrade the dependencies.
-- But the personal influence factors like learning new svelte (I can do this also with a new project) and the trigering factor of an project of mine not being upgraded on purpose also had an heavy impact.
-- Finally, yes I somehow liked the code I was watching at and working with.
-- So I decided to act rationally and not emotionally and dropped dependency upgrades for this project.
+Getting to the final decision was hard. The total required effort, the low amount of users and the low security risk were factors that heavily influenced my decision making process. I do not have much free time where I can focus on my private projects. So therefore upgrading the dependencies would take a hell of a lot of my freetime, which I didn't really wanted.
+
+Learning modern svelte kit could also be acchieved with a new project. But the triggering factor of escaping to self challenge myself also hit hard. And there is also the factor that I do like my legacy code because it reminds me of the "good old times".
+
+So I had to make a decision. And I decided to act rationally and not emotionally and decided to do not upgrade all the dependencies of my project anymore. 
 
 ## What can you learn from all this?
 
-- These personal decisions are very hard for everyone.
-- In the end you have to evaluate all the factors for yourself. If the project has a high emotional value for you, keep working on it
-- But if you can't find a proper decision you will need to decide damn rationally. Sure, this might feel bad in the first place. But in the end it is the right decision. Like in my case. I really loved this project, because it was one of my first web projects I worked on longer than 2 months. But even if this project had such an high emotional value to me, it was right to not upgrade the dependencies anymore. It wouldn't be worth the effort. And I still can work on it. But only with beta status dependencies. And I really love the experience with it.
-- So in the end the rational decision might be also the decision that is emotionally the best for you. It's a win for both.
+These personal decisions are very hard for everyone out there. Therefore I think that you might can learn something from my personal train of thought on this. 
+
+In the end you will have to do all the decisions on your own. You should not copy my decision one by one. This would be the worst possible approach to tackle your problems. But when you are facing such a problem, sure you should ask yourself how high is the emotional value of this project for you. But you should also think rationally about all the influencing factors. Acting rationally and ignoring emotional factors might be hard in the first place, but trust me, in the end it will be the right decision. Of course, emotions are important. And if you are working in project management, emotions are very important when your talking about the other team members. But when it comes to the hard facts about the project itself (and not the human component of it) you should definetly decide rationally. 
+
+It's like in my case. I really loved the project, because it was one of my first projects in web development I have been working for more than two months on. The project had an pretty high emotional value to me, yes. But it was right to do not upgrade the dependencies anyway. It wouldn't be worth the effort. I can still continue working on the project. But only with the beta status framework. 
+
+As I already said, emotions are important but so are the hard paper facts. When working with other people, their emotions and feelings should have a high value for you. But the decisions on the project itself should be 100% rationally to get the best out of it. Acting rationally is in this case be best thing you can do for all participants of the project. It's a win for all.
