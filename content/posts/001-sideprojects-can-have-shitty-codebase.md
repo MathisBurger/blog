@@ -5,6 +5,7 @@ tags:
   - sideprojects
   - code-quality
   - learning
+comments: true
 ---
 In the past few days, I have been working on a side project that uses PHP and [Laravel](https://laravel.com/). I should mention that I had never used Laravel before in my life. My professional experience has primarily been with other PHP frameworks, like [Symfony](https://symfony.com/), and I thought: Why not try something new?
 

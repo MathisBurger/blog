@@ -4,6 +4,7 @@ date: 2025-03-07T14:00:00+01:00
 tags:
   - php
   - frameworks
+comments: true
 ---
 
 I have been working with PHP in a professional environment for about three years. Despite this, PHP remains one of the most disliked languages among developers, which I find difficult to understand because it has evolved into a fairly robust and capable language.
