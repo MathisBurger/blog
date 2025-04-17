@@ -50,22 +50,33 @@ Start with personal projects. Get your hands dirty. Learn. And I don’t mean bu
 
 ## So what are the people doing that triggers me
 
-- Well I digged deep into these communities to find out what they are doing. I wanted tons of videos, read many tweets and even got invited to some discord servers.
-- Well the most frustrating thing is that some people lie directly into your face. Its not something new that people on the internet lie all the time, but those people lie to attract new customers. 
-- Let me give you an example: I won't give any names, but what you need to know is, that here in Germany there is a special corporate legal form called "UG". You can start it with 1€ capital, but with the limitation that you have to save 25% of your revenue to build your capital up to 25.000€. Then your UG is converted into an GmbH. 
-- Why do you need to know this? Well there is a person out there that got lately a lot of attention on social media for posing with his cars. He said that he is running multiple startups and his most successful company is a software development agency that he runs since 2017, which made him a millionare through earnings. Fun fact, if you look up this company on north data, it is still a UG and got registered in 2021. So this company did not started in 2017 and did not make him a millionare. I assume he just said that to generate attention for his company to get new customers. And in my opinion this is the worst you can do.
-- But right behind this is the fact that most of these new "webflow agencies" do not know, what they are doing. 
-- During my time in these discord servers I got pretty well into how these people are working on there projects. 
-- You remember what I said about building a website? Those people do not search for a purpose for the customer. They only do what in there opinion fits best to the company. No real project management. Costs are only estimated by a short description of the project. No details on how long each page would take individually. Often they also do fixed prices like 2000€ per website. 
-- They just use one of the default templates or buy one that costs about 50€ and modify them to look like it matches the astetic of the customer. Spoiler: in most cases it does not.
-- Many of them also vendor-lock in to tools like webflow, which do not have that much plugin support and it is hard to add real custom behaviour to the website. 
-- They never heard about about SEO and they buy the domain for their customer under their own name. Might look fine in the first place, but actually it can be pretty frustruating for the customer if they want to switch to another agency. 
-- When it comes to legal stuff, this is what triggers me the most. Those people either use just simple GDPR notice generators or AI to generate their legal texts for them. No further checks if there are actually no external contents loaded before you perform any action in the consent banner.
-- Being unprofessional and selling bad services. Okay, you are just a bad agency. But not caring about the legal compliance of your products by using AI is very very very unprofessional. If you do exactly that, you should not be allowed to ever build anything for a customer ever again. 
+I spent a lot of time digging into the communities I mentioned earlier, trying to understand how those one man agencies actually work. I watched countless videos, read endless tweets, and even joined a few Discord servers to see things from the inside.
 
-- But this was only about websites. When it comes to building custom applications it gets even worse. I will make it short. Most of the people I talked to have absolutely no experience. They wanted some python tutorials online and how think that a bachelors or masters degree is worthless, because they already know everything to build a functional application. Some of those people I talked to even never heard the word password hashing. They thought it has something to do with choosing secure passwords for different applications. 
-- Those people build production applications that do run in different companies or organisations they built the software for. No knowledge about privacy restrictions or software architecture. If it gets complex, ChatGPT is their way to go. 
-- Its actually pretty sad from the perspective of a professional developer.
+The most frustrating part? Some people blatantly lie to your face. Now, sure—it's nothing new that people lie on the internet. But these folks are doing it to win over new customers. And that’s what makes it different.
+
+Let me give you an example. I won’t name names, but here in Germany, there’s a special corporate legal form called a “UG” (Unternehmergesellschaft). You can start one with as little as €1 in capital, but you're required to save 25% of your profits until you reach €25,000. Once you hit that amount, your UG can be converted into a GmbH (a more robust corporate form).
+
+Why does this matter? Well, there’s someone on social media who recently gained quite a bit of attention by posting flashy pictures with expensive cars, claiming he’s been running a successful software agency since 2017 — one that supposedly made him a millionaire. But if you check the public records on North Data, the company he’s referring to is still a UG and wasn’t even registered until 2021. So no, it didn’t start in 2017, and no, it didn’t make him a millionaire. It's all just a tactic to gain attention and attract new customers — and in my opinion, that’s as shady as it gets.
+
+But the real issue goes deeper. Most of these new “Webflow agencies” have no idea what they’re doing. After spending time in their Discord servers, I got a pretty good sense of how they actually work.
+
+Remember what I said earlier about building websites with purpose? These people don’t even ask what the website is supposed to achieve. They just create something they think fits the client's brand. There's no real project management. Cost estimates are based on vague descriptions with no breakdown of how long each page or feature will take. No clear cost structure, no distinction between hosting, maintenance, and development. In many cases, they offer fixed prices—like €2,000 for a full website—without any real scope definition.
+
+They often use off-the-shelf templates or buy one for around €50 and slightly modify it to "match" the client's aesthetic. Spoiler alert: most of the time, it doesn’t.
+
+Worse, they lock their clients into platforms like Webflow, which offer limited plugin support and make it hard to implement truly custom features. SEO is usually an afterthought — if it's considered at all. And as if that weren’t bad enough, they even register the domains under their own names. That might seem harmless at first, but when the client wants to switch agencies, it becomes a nightmare.
+
+Now let’s talk about the legal side — this is what really sets me off. These agencies either use generic GDPR generators or AI tools to spit out privacy policies and legal texts, with zero regard for actual compliance. They don’t even bother to check whether third-party content is being loaded before consent is given via a cookie banner.
+
+Selling mediocre work? Fine — you’re just a bad agency. But ignoring legal compliance and relying entirely on AI to generate legal documents? That’s not just unprofessional—it’s reckless. If you operate like that, you should not be allowed to build anything for clients. But clients often buy into it anyway — because it’s cheap and they lack the knowledge to understand the complexities and limitations of professional web design.
+
+And that’s just websites. When it comes to custom applications, things get even worse.
+
+I’ll keep it short: most of the people I encountered have no real experience. They’ve watched a few Python tutorials and now believe university degrees are pointless because they “already know everything” about building applications. Some of them hadn’t even heard of password hashing. One guy thought it referred to choosing strong passwords across different apps.
+
+These people are building production systems — used by real companies and organizations — with no knowledge of software architecture, no understanding of privacy regulations, and zero awareness of secure development practices. And when things get complex, they just ask ChatGPT.
+
+From the perspective of a professional developer, it’s genuinely sad to see.
 
 
 ## So what would I do better?
