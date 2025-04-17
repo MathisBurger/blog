@@ -9,39 +9,43 @@ tags:
 comments: true
 ---
 
-- I am currently pretty active on social media
-- More and more often I see who talk about how they opened a webflow agency or building the next big SaaS
-- And in most cases this seems fine to me. But lately it is starting to trigger me
-- More and more people are trying to sell their services online and do marketing in social media. 
-- But many of those people do not really offer you a good deal or just lie straight into your face. 
-- Lets first talk about all the one man web design agencies out there
+I’m currently quite active on social media, and more and more often I come across people on platforms like TikTok or X talking about how they’ve started a Webflow agency or are building the next SaaS or enterprise application for their clients. In most cases, that’s perfectly fine — experienced professionals sharing what they’re working on. Pretty cool.
+
+But lately, I’ve been seeing more and more people who really trigger me.
+
+Many of the people you see on social media might initially seem to offer a great deal — but if you take a closer look, their services are often quite poor. Sometimes, they even lie straight to your face.
 
 ## A bit of background information
 
-- Building a website isn't just about CMS systems and templates. It's about creating a whole corporate identity for the people.
-- Let me break down the whole process for you with an simple example: 
-- If you get a request to build a website for a customer, you first need to find out what the needs of the customer are.
-- After that you determine the main purpose of the website. A website always needs a purpose. Even if it is just to increase your online sales or conversion rates. Your website needs to have a purpose and you have to talk with the customer about this, because this purpose is what you build the website around.
-- After you got all these information you need to put in some project management. Cost definitions, goals, stakeholders of the project. All these things need to be defined to make the framework conditions crystal clear. 
-- After all the organisational stuff is done, your project can finally start.
-- Now you have to do some screen designs. What pages does the website need? Where to put the content? What content do we want? What type of colors should we use? What style should the website be? Modern? Retro? Minimalistic? All this should serve the main purpose of the website that you have defined before. 
-- And no, a fuckin wordpress template don't fulfill your needs. Sure, it can be fine if the budget is tight or it perfectly matches your needs or you just want to build your first online appearance. Then it's totally fine.
-- But generally a template is pretty generalized. In most cases it won't serve your websites purpose well enough. And another bad side effect is, that most websites then look pretty similar. 
-- I would recommend you to take bootstrap as a starting point and then modify the components or build your own. It gives you a good starting point in terms of grid layouts you can use. But always try to move away from the default bootstrap look and create what fits best the general theme of the website.
-- Furthermore, you should probably choose a CMS or page building system that allows to write your own extensions and plugins and is self hostable and open source in the best case. Vendor lock-in has the risk of rising costs or changing conditions that you cannot control. This is bad for either you, your customer or for both. If you are using a self hosted system this gives you full control over what you are doing. So use a CMS like Wordpress or Typo3. But sure, there might be also some usecases for tools like Webflow. But I will talk about that later.
-- And even after the website content and layout is done, you still have many things to do. 
-- Nowadays search engine optimization is important. You should think about this topic even before building your layout in the best case. But at least try to optimize some of your content afterwards. 
-- When it comes to buying the domain, this should be done by the customer, because the customer should be the legal owner of the domain. Not you. You should not lock-in the user into your agency ecosystem. This would be very unprofessional. If your services are great, the customer will work with you again. No need to lock him in.
-- Last but not least you will have to do some legal work. Impress and pricavy notice is very important and you should not under estimate this. ChatGPT won't do this for you. Services like e-recht24.de can do the job, but there are also cases, where it does not. In those cases you will need a person who is proficient in this topic to ensure the website you are building is clean from a legal view.
-- And no, it is not enough to just add the cookies you are using to your privacy notice and install a free cookie banner plugin. You need to make sure, that there is actually no external content loaded before the user of the website accepts the cookies. And if he does not accept some cookies, these cookies are not allowed to be used. And there are also legal restrictions about how your cookie banner is allowed to look. So just installing a plugin for that won't do the job. 
-- Here in Germany there are three laws you have to know. The GDPR (DSGVO), the BDSG and the BFSG. Study them and get in touch with them. You need to know the restrictions of what you are building. And those laws are restrictions you will have to know at the start of your project.
+Before we dive in, you need a bit of background to understand what really matters when building a website or a custom application for clients.
 
-- When it comes to developing software individually for your customers there are many more restrictions. For example, You need to ensure, that the software always aligns with the latest security standards. 
-- You need some professional experience or at least a few years of hobby experience to do so. I had no experience in my early days of programming and I`ve build some pretty bad applications for other people. Thank god, they do not run in production anymore! Those apps were completely insecure, had a bad architecture and were a mess to work with when it comes to modifications. 
-- So make sure when you build some applications that run in production and that your customer is using that you know exactly what you are doing. And no, not ChatGPT should know what your code is doing, you should know. You should know about architecture, about software design patterns, security standards, databases, etc. 
-- If you just finished university and the only programming experience you had is the Java class you had to take its not enough. 
-- Do some personal projects. Get in touch with those things and learn. And no, one simple web calculator is not enough. 
-- Learn how to properly build complex software before you actually start building complex software. Otherwise your customer will get shit and you will need to refactor your mess afterwards which is a total pain in the ass.
+Creating a website isn’t just about choosing a CMS or applying a fancy template. It’s about building a cohesive brand identity for the people you're working with. Let me walk you through the entire process.
+
+When you receive an initial request to build a website, the first step is to understand your client’s actual needs. What is the primary purpose of the website? Is it to boost sales? Increase awareness of the client’s mission? Generate leads? This clarity is essential, because everything you build — from structure to content — should serve this core purpose.
+
+Once that’s clear, you need to think about project management. You’ll have to estimate costs: hosting, legal services, ongoing maintenance, and your own work. Transparency is key. Explain how the price is calculated and why it is what it is — high, low, or somewhere in between. Identify all stakeholders and make sure the project's framework conditions are crystal clear. If you skip this step, your project is likely to fail due to misalignment and lack of agreement with the client. But once the organizational groundwork is laid, the “real” work can begin.
+
+Next comes screen design. What pages are needed? What content should go where? What type of content are we even talking about? Which colors and design style suit the brand? Should it be modern, retro, minimalistic? Every design decision should serve the primary purpose defined earlier. And no — a random WordPress template does not fulfill all of your client's needs. Sure, templates can work in low-budget scenarios or when a generic solution is acceptable (which might be the case in 1% of all projects). But if the goal is to build something purposeful and custom, a template just doesn’t cut it.
+
+Templates are too generic. They’re designed to meet many use cases at once, but not specifically yours. And let’s face it—most template-based websites look the same, which makes it hard to stand out from the competition. A better approach? Use a framework like Bootstrap as a starting point and customize each component to match the client’s individual needs. Use the grid system as your foundation, but then tailor everything to truly serve your client.
+
+Also, choose a CMS or page builder that allows for custom extensions and plugins. Ideally, it should be open-source and self-hostable. Why? Because your client’s needs will evolve. Imagine you build a site for a barbershop. Initially, it's just about listing prices and attracting local customers. A year later, they want an online booking system. Or imagine your current hosting provider becomes insecure or non-compliant with data protection laws. In such cases, being able to migrate quickly is essential. Tools like Webflow, with their closed ecosystems and vendor lock-in to AWS, can be a serious limitation. A self-hosted, open-source CMS gives you far more flexibility and control.
+
+Even after the content and layout are finalized, your work isn’t done. These days, SEO matters — a lot. Ideally, you should consider SEO from the very beginning, even before laying out your first design wireframes.
+
+And when it's time to buy the domain, make sure the client owns it. Have them register the domain in their name and give you access only to the DNS settings — unless you’re explicitly authorized to register domains on someone else's behalf. This protects your client from vendor lock-in. Clients should stay with your agency because of your excellent service, not because you hold their domain hostage. Anything else is just unprofessional.
+
+Then there's the legal aspect. At minimum, every website needs an imprint (Impressum) and a privacy policy. Don’t underestimate this. ChatGPT can’t reliably write these for you. Services like e-recht24.de can help, but in some cases, you’ll need a real legal expert to make sure your site is compliant. It’s always safest to consult a lawyer or someone well-versed in online privacy laws, rather than blindly trusting a generator.
+
+And no, it’s not enough to just list your cookies in the privacy policy and install a free cookie banner. You must ensure that no external resources are loaded before a user gives consent. And if they decline, those resources must not be loaded. Most cookie plugins don’t handle this properly.
+
+Here in Germany, there are three key laws you need to be aware of: the european GDPR (DSGVO), the BDSG (Bundesdatenschutzgesetz), and the BFSG (Barrerefreiheiststärkungsgesetz). Familiarize yourself with them and understand the limitations they impose.
+
+When you're developing custom software for clients, the standards become even stricter. Your software must follow up-to-date security practices. That takes professional experience — or at least several years of serious hobby development. When I first started out, I lacked that experience, and I built some truly awful apps for other people. Thankfully, they’re no longer in use! Those applications were completely insecure, poorly architected, and a nightmare to maintain.
+
+So, if you're building production-grade software for clients, make absolutely sure you know what you’re doing. It’s not enough for ChatGPT to know — you need to know. You should be familiar with architecture, design patterns, security protocols, databases, and more. If you’ve just finished university and your only programming experience is a Java course you had to take, that’s not enough to develop real software without a senior supervising you.
+
+Start with personal projects. Get your hands dirty. Learn. And I don’t mean build a basic calculator app — go deeper. Learn how to design scalable, maintainable, and secure systems. Do that before you start building for clients. Otherwise, they’ll end up with a mess—and you’ll be the one stuck cleaning it up.
 
 
 ## So what are the people doing that triggers me
