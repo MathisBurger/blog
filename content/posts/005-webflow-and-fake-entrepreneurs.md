@@ -87,6 +87,8 @@ comments: true
 - The second approach would be to create awareness for this topic in the population. People should know, that a 2000€ website most likely does not meet the standards that a modern website should have. 
 - The market would regulate itself in this case. More people knowing about this would have the effect of less people buying those crappy websites. 
 
+- Same for building custom applications
+
 - But to be fair I am not an expert in neither of these fields, altough I am member of a political party and have the basic knowledge of how the markets works. In the end I am not able to 100% ensure that those ideas would actually have an effect on the situation itself. So feel free to leave your own ideas and opinions in the comments.
 
 
