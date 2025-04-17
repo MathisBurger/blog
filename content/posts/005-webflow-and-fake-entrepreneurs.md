@@ -66,4 +66,28 @@ comments: true
 
 ## So what would I do better?
 
+- Well I was thinking a lot lately about opening an own agency for websites which is also one of the reasons why I decided to write about this whole topic.
+- First of all the most important thing would be to invest in an expert in privacy and legal stuff. This is not only very important for me, but also for my customers.
+- After that I would actually talk with the customer about their needs and build a custom website for their needs. No templates, no cost estimations based on nothing.
+- If you really want to be a great agency to work with, you need a lot of time to fulfill the customer needs. It's not just building the website. You also need to host and maintain it, which can take a lot of time. 
+- And this is the big problem. You just can't build a website that is legally bullet proof and fulfills the customer needs by 100% if it only costs 2000€. The minimum amount of money needed would be 5000€ for small websites. 
+- And this is the main reason why I am not currently an agency owner. I do not have the time to properly provide good services for my possible customers. I know how much time it would take to build a good website. Therefore, it would be more expensive than the competitors websites, who do not put as much effort into those website as it would be needed to get a good result for the customer. 
+- And this is why most of these agencies are still profitable, they are the cheapest on the market.
+- Sure, your local barber shop does not need a fancy website to be successful, but if his website looks like every other barber shops website, the site is actually useless, because it has no USP (unique selling point).
+
 ## What can we do to avoid those people?
+
+- Well to be fair, not every one man agency offering you a 2000€ website is bad. There are also many good people out there, who know well what they are doing. 
+- But to seperate the good from the bad agencies we need to do some things. 
+- The first, very unrealistic approach would be to require some sort of certification in order to be allowed to build websites for other customers like it is already established for other products. 
+- For example, cars need to pass many security and quality checks before they can be launched into the consumer market. The problem with building websites is that it is accessible to anyone. Everyone can watch a two hour YouTube tutorial and start playing with webflow or wordpress and click together a mediocre website. But the end result is not really what most professional people would define as quality. The end customer of a car can say from his limited perspective, if a car is good. He can say if it is fast enough for his needs. But without any knowledge in mechanical engineering he is not able to say whether the engine is well constructed and will last long, or not. And the same goes with websites. The design might look good, but in the end it does not fulfill the customer needs or is just not GDPR compliant. Without any professional background the customer will never be able to measure the actual quality of a website properly. 
+- And this is where certifications come in. If every person building websites for customers needs to be certified by some sort of institution in order to get the allowance to build websites, this would regulate the market and ensure that all websites build for customers are actually meeting quality and privacy standards. 
+- But this is hard to establish, because it would require political actions. 
+
+- The second approach would be to create awareness for this topic in the population. People should know, that a 2000€ website most likely does not meet the standards that a modern website should have. 
+- The market would regulate itself in this case. More people knowing about this would have the effect of less people buying those crappy websites. 
+
+- But to be fair I am not an expert in neither of these fields, altough I am member of a political party and have the basic knowledge of how the markets works. In the end I am not able to 100% ensure that those ideas would actually have an effect on the situation itself. So feel free to leave your own ideas and opinions in the comments.
+
+
+- Just be careful if you are on the customers site. If your customer integrates you into the process of creating the website it can be an indicator for good quality. But take also a closer look at how the agency calculates it's prices and talk precise about how they do their legal stuff (GDPR, etc.), how they plan to design the website and how the whole domain thing is handled. If the agency is transparent with that this is also a big green flag. And hey, even if the agency is using a privacy notice generator this can still be a good deal, if the agency offers you a cheaper price and actively communicates that the price is less expensive because of this. Just be aware of what you need. Templates might also be fine at some point. Transparent communication is key when working with the agency. If your agency communicates transparently from the first day on how their prices are built and why there service is so cheap or expensive, this can actually be a good deal. But as always it is safer to be more careful whan less careful. 
