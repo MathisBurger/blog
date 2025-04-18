@@ -1,6 +1,6 @@
 ---
 title: "Why most of web agencies shouldn't be in business"
-date: 2025-04-01T1:00:00+01:00
+date: 2025-04-18T1:00:00+01:00
 tags:
   - cms
   - entrepreneurship
