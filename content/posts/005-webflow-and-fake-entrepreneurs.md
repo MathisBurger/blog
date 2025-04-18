@@ -1,5 +1,5 @@
 ---
-title: "Working title"
+title: "Why most of web agencies shouldn't be in business"
 date: 2025-04-01T1:00:00+01:00
 tags:
   - cms
@@ -27,19 +27,19 @@ Once that’s clear, you need to think about project management. You’ll have t
 
 Next comes screen design. What pages are needed? What content should go where? What type of content are we even talking about? Which colors and design style suit the brand? Should it be modern, retro, minimalistic? Every design decision should serve the primary purpose defined earlier. And no — a random WordPress template does not fulfill all of your client's needs. Sure, templates can work in low-budget scenarios or when a generic solution is acceptable (which might be the case in 1% of all projects). But if the goal is to build something purposeful and custom, a template just doesn’t cut it.
 
-Templates are too generic. They’re designed to meet many use cases at once, but not specifically yours. And let’s face it—most template-based websites look the same, which makes it hard to stand out from the competition. A better approach? Use a framework like Bootstrap as a starting point and customize each component to match the client’s individual needs. Use the grid system as your foundation, but then tailor everything to truly serve your client.
+Templates are too generic. They’re designed to meet many use cases at once, but not specifically yours. And let’s face it — most template-based websites look the same, which makes it hard to stand out from the competition. A better approach? Use a framework like Bootstrap as a starting point and customize each component to match the client’s individual needs. Use the grid system as your foundation, but then tailor everything to truly serve your client.
 
-Also, choose a CMS or page builder that allows for custom extensions and plugins. Ideally, it should be open-source and self-hostable. Why? Because your client’s needs will evolve. Imagine you build a site for a barbershop. Initially, it's just about listing prices and attracting local customers. A year later, they want an online booking system. Or imagine your current hosting provider becomes insecure or non-compliant with data protection laws. In such cases, being able to migrate quickly is essential. Tools like Webflow, with their closed ecosystems and vendor lock-in to AWS, can be a serious limitation. A self-hosted, open-source CMS gives you far more flexibility and control.
+Also, choose a CMS or page builder that allows for custom extensions and plugins. Ideally, it should be open-source and self-hostable. Why? Because your client’s needs will evolve. Imagine you build a site for a barbershop. Initially, it's just about listing prices and attracting local customers. A year later, they want an online booking system. Or imagine your current hosting provider becomes insecure or non-compliant with data protection laws. In such cases, being able to migrate quickly is essential. Tools like [Webflow](https://webflow.com/), with their closed ecosystems and vendor lock-in to AWS, can be a serious limitation. A self-hosted, open-source CMS gives you far more flexibility and control.
 
 Even after the content and layout are finalized, your work isn’t done. These days, SEO matters — a lot. Ideally, you should consider SEO from the very beginning, even before laying out your first design wireframes.
 
 And when it's time to buy the domain, make sure the client owns it. Have them register the domain in their name and give you access only to the DNS settings — unless you’re explicitly authorized to register domains on someone else's behalf. This protects your client from vendor lock-in. Clients should stay with your agency because of your excellent service, not because you hold their domain hostage. Anything else is just unprofessional.
 
-Then there's the legal aspect. At minimum, every website needs an imprint (Impressum) and a privacy policy. Don’t underestimate this. ChatGPT can’t reliably write these for you. Services like e-recht24.de can help, but in some cases, you’ll need a real legal expert to make sure your site is compliant. It’s always safest to consult a lawyer or someone well-versed in online privacy laws, rather than blindly trusting a generator.
+Then there's the legal aspect. At minimum, every website needs an imprint (Impressum) and a privacy policy. Don’t underestimate this. ChatGPT can’t reliably write these for you. Services like [e-recht24.de](https://www.e-recht24.de/) can help, but in some cases, you’ll need a real legal expert to make sure your site is compliant. It’s always safest to consult a lawyer or someone well-versed in online privacy laws, rather than blindly trusting a generator.
 
 And no, it’s not enough to just list your cookies in the privacy policy and install a free cookie banner. You must ensure that no external resources are loaded before a user gives consent. And if they decline, those resources must not be loaded. Most cookie plugins don’t handle this properly.
 
-Here in Germany, there are three key laws you need to be aware of: the european GDPR (DSGVO), the BDSG (Bundesdatenschutzgesetz), and the BFSG (Barrerefreiheiststärkungsgesetz). Familiarize yourself with them and understand the limitations they impose.
+Here in Germany, there are three key laws you need to be aware of: the european GDPR ([DSGVO](https://dsgvo-gesetz.de/)), the BDSG ([Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/)), and the BFSG ([Barrierefreiheitsstärkungsgesetz](https://bfsg-gesetz.de/)). Familiarize yourself with them and understand the limitations they impose.
 
 When you're developing custom software for clients, the standards become even stricter. Your software must follow up-to-date security practices. That takes professional experience — or at least several years of serious hobby development. When I first started out, I lacked that experience, and I built some truly awful apps for other people. Thankfully, they’re no longer in use! Those applications were completely insecure, poorly architected, and a nightmare to maintain.
 
@@ -52,15 +52,15 @@ Start with personal projects. Get your hands dirty. Learn. And I don’t mean bu
 
 I spent a lot of time digging into the communities I mentioned earlier, trying to understand how those one man agencies actually work. I watched countless videos, read endless tweets, and even joined a few Discord servers to see things from the inside.
 
-The most frustrating part? Some people blatantly lie to your face. Now, sure—it's nothing new that people lie on the internet. But these folks are doing it to win over new customers. And that’s what makes it different.
+The most frustrating part? Some people blatantly lie to your face. Now, sure — it's nothing new that people lie on the internet. But these folks are doing it to win over new customers. And that’s what makes it different.
 
-Let me give you an example. I won’t name names, but here in Germany, there’s a special corporate legal form called a “UG” (Unternehmergesellschaft). You can start one with as little as €1 in capital, but you're required to save 25% of your profits until you reach €25,000. Once you hit that amount, your UG can be converted into a GmbH (a more robust corporate form).
+Let me give you an example. Here in Germany, there’s a special corporate legal form called a “UG” (Unternehmergesellschaft). You can start one with as little as €1 in capital, but you're required to save 25% of your profits until you reach €25,000. Once you hit that amount, your UG can be converted into a GmbH (a more robust corporate form).
 
 Why does this matter? Well, there’s someone on social media who recently gained quite a bit of attention by posting flashy pictures with expensive cars, claiming he’s been running a successful software agency since 2017 — one that supposedly made him a millionaire. But if you check the public records on North Data, the company he’s referring to is still a UG and wasn’t even registered until 2021. So no, it didn’t start in 2017, and no, it didn’t make him a millionaire. It's all just a tactic to gain attention and attract new customers — and in my opinion, that’s as shady as it gets.
 
 But the real issue goes deeper. Most of these new “Webflow agencies” have no idea what they’re doing. After spending time in their Discord servers, I got a pretty good sense of how they actually work.
 
-Remember what I said earlier about building websites with purpose? These people don’t even ask what the website is supposed to achieve. They just create something they think fits the client's brand. There's no real project management. Cost estimates are based on vague descriptions with no breakdown of how long each page or feature will take. No clear cost structure, no distinction between hosting, maintenance, and development. In many cases, they offer fixed prices—like €2,000 for a full website—without any real scope definition.
+Remember what I said earlier about building websites with purpose? These people don’t even ask what the website is supposed to achieve. They just create something they think fits the client's brand. There's no real project management. Cost estimates are based on vague descriptions with no breakdown of how long each page or feature will take. No clear cost structure, no distinction between hosting, maintenance, and development. In many cases, they offer fixed prices — like €2,000 for a full website — without any real scope definition.
 
 They often use off-the-shelf templates or buy one for around €50 and slightly modify it to "match" the client's aesthetic. Spoiler alert: most of the time, it doesn’t.
 
@@ -68,7 +68,7 @@ Worse, they lock their clients into platforms like Webflow, which offer limited 
 
 Now let’s talk about the legal side — this is what really sets me off. These agencies either use generic GDPR generators or AI tools to spit out privacy policies and legal texts, with zero regard for actual compliance. They don’t even bother to check whether third-party content is being loaded before consent is given via a cookie banner.
 
-Selling mediocre work? Fine — you’re just a bad agency. But ignoring legal compliance and relying entirely on AI to generate legal documents? That’s not just unprofessional—it’s reckless. If you operate like that, you should not be allowed to build anything for clients. But clients often buy into it anyway — because it’s cheap and they lack the knowledge to understand the complexities and limitations of professional web design.
+Selling mediocre work? Fine — you’re just a bad agency. But ignoring legal compliance and relying entirely on AI to generate legal documents? That’s not just unprofessional — it’s reckless. If you operate like that, you should not be allowed to build anything for clients. But clients often buy into it anyway — because it’s cheap and they lack the knowledge to understand the complexities and limitations of professional web design.
 
 And that’s just websites. When it comes to custom applications, things get even worse.
 
@@ -91,7 +91,7 @@ If you really want to run an agency that delivers meaningful value, you need to 
 
 And here’s the core issue: you simply can’t build a legally sound, fully custom website that truly serves the client’s needs for just €2,000. The bare minimum for a small, well-built site is around €5,000.
 
-This is exactly why I haven’t started my own agency yet — I just don’t have the time right now to offer the level of service I know would be necessary. I understand what it takes to build a truly effective, secure, and purpose-driven website. And that kind of quality takes time — and therefore money. The websites I’d build would naturally be more expensive than what most of the cheaper agencies offer, simply because I’d invest far more effort into getting the right result for the customer. But I also don’t want to compromise on quality. I want to deliver the standard I would expect myself if I were the customer. And if I can’t achieve that with the resources I currently have, then I’d rather not do it at all. I’d feel uncomfortable offering a lower-quality solution at a cheaper price—especially knowing it might not truly meet the client’s needs. But maybe that’s just my perfectionism speaking.
+This is exactly why I haven’t started my own agency yet — I just don’t have the time right now to offer the level of service I know would be necessary. I understand what it takes to build a truly effective, secure, and purpose-driven website. And that kind of quality takes time — and therefore money. The websites I’d build would naturally be more expensive than what most of the cheaper agencies offer, simply because I’d invest far more effort into getting the right result for the customer. But I also don’t want to compromise on quality. I want to deliver the standard I would expect myself if I were the customer. And if I can’t achieve that with the resources I currently have, then I’d rather not do it at all. I’d feel uncomfortable offering a lower-quality solution at a cheaper price — especially knowing it might not truly meet the client’s needs. But maybe that’s just my perfectionism speaking.
 
 That’s also why these low-cost agencies remain so profitable: they’re the cheapest option on the market. Sure, your local barbershop doesn’t need a highly sophisticated website to function. But if the website looks like every other barbershop’s site, it becomes practically useless — it offers no unique selling point, no reason to stand out.
 
