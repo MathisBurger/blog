@@ -7,6 +7,9 @@ copyright = "Mathis Burger"
 pagination.pagerSize = 5
 summaryLength = 70
 
+[markup.goldmark.renderer]
+unsafe= true
+
 
 [params]
     author = "Mathis Burger"
