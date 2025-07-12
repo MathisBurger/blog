@@ -1,5 +1,5 @@
 ---
-title: "Vibe Coding is not the future"
+title: "Vibe Coding is shit. Stop it"
 date: 2025-04-18T1:00:00+01:00
 tags:
   - AI
@@ -7,73 +7,81 @@ tags:
 comments: true
 ---
 
-- Vibe coding is present everywhere nowadays. 
-- Social media is filled by people telling there stories of building SaaSs faster than ever before with vibe coding techniques.
-- And most of them are trying to tell you that you as a engineer will be homeless in a few years, because AI will replace you.
-- I think different about this and I absolutely hate this trend.
+Vibe coding seems to be everywhere these days. Social media is flooded with stories of people building SaaS products at record speed using so-called vibe coding techniques. These posts often come with bold claims, not just about productivity but also about the future of our profession. The underlying message is clear: software engineers will soon be obsolete, replaced by AI and no-code tools.
 
+I strongly disagree with this narrative and frankly, I find the whole trend deeply frustrating. Most of these vibe-coded apps are not only rushed but also poorly architected and alarmingly insecure. What is being celebrated as innovation often lacks the fundamentals of sustainable and responsible software development.
 
 ## Vibe Coding is not only using AI
 
-- As far as I know, there is no real definition of Vibe Coding. 
-- So let me first tell you what I define as vibe coding.
-- I seperate vibe coding from just simply using AI for building apps.
-- Vibe coding is a little more abstract than using AI as a tool in development.
-- When you use AI as support tool while coding you have a solid understanding of software development fundamentals.
-- You know enough about architecture, software design patterns and you understand code (without using AI) in different contexts. You are able to see mistakes done by AI.
-- When you vibe code, you do not care about this. The AI designs your architecture and uses its own design patterns. 
-- You do not care about how it is done, as long as it works and your application is functional.
-- And I do think this is exactly how most new cool hipster coder SaaS builder on the internet build their application. 30% coding, 70% tweeting about how successful they will be and how groundbreaking their note taking SaaS ist. 
+As far as I know, there is no clear or widely accepted definition of vibe coding. So before I continue, let me explain what I personally mean by it.
+
+To me, vibe coding is not simply about using AI to assist in software development. That distinction is important. When you use AI as a tool, for example to generate boilerplate code, refactor functions, or get unstuck, you typically have a solid understanding of software development fundamentals. You know how to design architecture, apply appropriate software design patterns, and critically assess the code you write, including code suggested by AI. You are able to spot mistakes and poor practices because you understand the broader context.
+
+Vibe coding is something different. It is more abstract and, frankly, more careless. In vibe coding, the AI effectively becomes the architect. It chooses the patterns, structures the code, and makes key decisions while the developer blindly follows along. There is little concern for how things are implemented, as long as they appear to work and the application looks functional on the surface.
+
+This, in my view, is exactly how many of the new, self-proclaimed “cool” SaaS builders operate online. It is thirty percent coding and seventy percent tweeting about how revolutionary their AI-written note-taking app is, often without any understanding of what is actually going on under the hood.
 
 ## Why is vibe coding bad?
 
-- I hope you can already imagine why vibe coding is bad then. 
-- You push to prod without any verfication. How would you even verify the results when you do not know anything about coding?
-- When you do not know what the code does it is like you hope that is is not vulnerable and will work perfectly fine. 
+By now, you can probably already imagine why vibe coding is such a bad idea.
+
+You’re essentially pushing code to production without any real verification. And how could you verify anything when you don’t actually understand what the code is doing in the first place? Without a solid grasp of software development, you’re left blindly trusting that whatever the AI generates is correct, secure, and maintainable, which is wishful thinking at best.
+
+It’s like deploying an application and simply hoping that it’s not vulnerable, that everything magically works as intended, and that no edge cases will ever break it. Spoiler: they will. 
 
 <img src="/003-ai-doctor.jpg" width="50%" />
 
-- Unfortunately I do not know anymore where I got this image from. So if you know, please tell me, that I can give some credits.
-- But I think this image describes precisely why vibe coding is such a huge problem.
-- The AI is convinced of the output it gives you is absolutely corrent ... until you ask the right question. But to ask the right question, you have to understand what the code does.
-- We all heard of those people commiting an API key to a public GitHub repository or just building highly vulnerable applications just because they were not able to ask the right questions. 
-- And therefore, vibe coding is highly dangerous. Coding before had the limitation that you will have to know how to code. 
-- But through vibe coding you can build something without knowing how to code. So absolutely anybody can build something.
-- This might sound great at first, but if you look closer it can actually be a risk. 
-- Software Engineers are engineers. Would you feel safe in a car that a mechanical engineer vibe engineered? Would you take a drug that has been developed by a vibe pharmacist. Most certainly not. 
-- Software is a little more harmless than that, but can also be very vulnerable. Storing passwords without hashing + salt. One data breach and your password that you use for absolutely anything went public. Does not seem that good to me. Even if it is just your email and not your password. 
-- When I use an application I want it to be safe. And not safe by chance. And most important, I want it to work as designed not as intented by AI. 
-- It might just be me, but I am very afraid of the future. Don't get me wrong. AI is a huge step in terms of developer productivity. But replacing them might become a very big mistake. 
+*Unfortunately, I no longer remember where I originally found this image. If you happen to recognize it, please let me know so I can give proper credit.*
+
+I believe this image perfectly captures why vibe coding is such a huge problem.
+
+AI confidently provides output that looks correct until you ask the right question. But to ask the right question, you need to understand what the code is actually doing. And that is exactly the issue: many people do not.
+
+We have all seen examples of developers accidentally committing API keys to public GitHub repositories or deploying highly insecure applications simply because they lacked the knowledge to question the AI’s output. This is not a rare mistake; it is the consequence of not knowing enough to validate or challenge what the machine suggests. That is why vibe coding is not just misguided, it is dangerous. In the past, the barrier to writing code was that you had to know how to do it. Now, with vibe coding, you can build and deploy something without truly understanding software development. That might sound empowering at first, but on closer inspection, it introduces serious risks.
+
+Software engineers are engineers. Would you feel safe driving a car that was vibe engineered by someone with no training in mechanical engineering? Would you take medication developed by a vibe pharmacist? Most likely not. Sure, software might seem more harmless, but it can still be critically vulnerable. Storing passwords in plain text, skipping hashing and salting, means one data breach and your password, which you probably use for multiple accounts, is out in the wild. Even if it is just your email address, that is enough for phishing, spam, and identity fraud.
+
+When I use an application, I want it to be secure and not accidentally secure. Most of all, I want it to work as designed, not as vaguely intended by an AI. That is a big difference. Maybe it is just me, but I am genuinely worried about the direction this is heading. Do not get me wrong, AI is an incredible leap forward for developer productivity. But replacing developers altogether might turn out to be a massive mistake.
 
 
 ## The limitations of AI
 
-- AI is pretty good when it comes to simple stuff like writing boilerplate code or giving recommendation on best practises.
-- Even problems that have been often encountered might go pretty well. 
-- But as soon as you get something a little more complex AI will have a hard time solving your problem properly. 
-- Writing simple database pagination in rust using diesel, no problem. Writing a simple database pagination in rust using diesel with just one simple extra trait bound, no AI model was able to solve the problem, even if the solution was quite simple if you know a little about rust. 
-- So as said, AI is great for boring repetetive tasks or writing boilerplate code. But it has its limitation when it comes to actual semi-complex problem solving. 
-- The most powerful AI models today are all narrow AIs. They all lack problem-solving and adaptability capabilities. 
-- The current AIs can only learn based on already written code or already designed architecture. 
-- Narrow AI is getting better in coding for sure. But there is always a limit. And by flooding the internet with unchecked AI generated code, the learning material for the AI will get worse. 
-- The solution to all that would be AGI. But even with the billions of dollars that are currently invested in AI research to achieve AGI, the future of it is very uncertain. Could be the case that it will be never achieved.
-- So stop telling developers they will be replaced when your whole coding experience persists of building a deadly insecure and inperformant SaaS with at most 5 users. 
-- Whether they are getting replaced or not it absolutely uncertain. But for sure, due to the massive support AI can give today with repetitive tasks and standard patterns, there will be less positions for software engineers in the future. 
+AI is undeniably good at certain things, especially when it comes to writing boilerplate code or suggesting best practices. For common, well-documented problems, it often delivers solid results. Tasks that have been solved countless times before, AI can handle those reasonably well.
+
+But the moment your problem becomes even slightly more complex, things start to fall apart. Take this example: writing simple database pagination in Rust using Diesel is no problem for most AI models. However, introduce just one extra trait bound into the mix, and suddenly no model seems to get it right. Despite the fact that the correct solution is relatively straightforward for someone with a bit of Rust experience, the AI fails.
+
+This illustrates a deeper issue. AI is fantastic for repetitive, boring tasks. It can help generate tedious glue code, refactor existing logic, or even provide high-level scaffolding. But it still struggles with semi-complex problem solving, especially in more niche or strongly typed languages like Rust.
+
+That is because today’s most powerful models are still narrow AI. They do not truly understand what they are doing. They cannot generalize, adapt, or reason beyond what they have seen. They are built to mimic, not to think. They rely entirely on patterns and examples found in the training data, code written by humans, often taken from the public internet. And here is the problem: as the internet becomes more and more flooded with unchecked AI-generated code, the quality of that training data will inevitably decline. This creates a feedback loop that could make future AI models worse at programming, not better.
+
+The real breakthrough would be Artificial General Intelligence, or AGI. That is the holy grail, an AI that can truly reason, learn, and solve problems across domains. But despite billions of dollars in research, AGI remains a very distant and very uncertain goal. It may never be achieved.
+
+So please stop telling developers they are about to be replaced, especially when your entire coding experience consists of launching a painfully insecure and painfully slow SaaS that barely has five users. No, I am not afraid of the future and I am certainly not afraid of losing my job. What I am concerned about is the growing trend of people refusing to think critically. Evolving with technology means understanding it and using it responsibly, not blindly outsourcing your thinking to it.
+
+Will some developer roles disappear? Probably. With AI taking over more repetitive tasks and templated design patterns, the demand for junior developers might shrink. But will software engineers as a whole vanish? That is far from certain, and frankly, I doubt it.
 
 
 ## How to use AI properly
 
-- In my opinion, AI is just another tool that will boost developer productivity rapidly. 
-- But you should know how to use AI properly. Most important is to verify everything the AI is doing.
-- Code you do not understand. Do not use it. Try to understand it. It is like a code review. Test the code from evers edge you can imagine.
-- Let me give you an example. You are building a simple REST API with CRUD operations. Your database schema is given. 
-- Just building this simple code will be no problem. It is a task, AI can handle for you and save you 30 minutes or so. 
-- But you will have to verify the code. Authorization correct? Right properties set? Any properties I am not allowed to publish via the API? Are the database calls efficient? Caching implemented in a useful way? Rate limit? Endpoint naming correct? 
-- After you have checked all the important things, the AI code is safe to use. But you need to do this checks and do your validation and improvements within the code. 
-- When you encounter something new, you can also use AI. But first try to think yourself about the problem. What might be the most efficient solution? 
-- Then you can ask AI for any help. Not by writing code, but by providing you with some knowledge like known algorithms for your use case or some RFCs that implement exactly what you need. 
-- Based on that you need to understand how the code you would like to write and then try to write it. 
-- It is just that simple. 
-- Also when learning new things, AI can be a pretty decent help during learning material preperation or generating complex questions to learn. It should help you, not think for you.
-- AI can improve your productivity and help you with stuff that other tools can't. But it should stay a tool. When AI does the thinking for you, you are worth nothing.
-- Don't be stupid. Use your brain. 
+In my opinion, AI is just another tool, a powerful one that can significantly boost developer productivity. But like with any tool, the key is knowing how to use it properly. And the most important rule is to always verify what the AI gives you.
+
+If you do not understand the code, do not use it. Try to understand it first. Treat AI-generated code like you would code from a teammate. Review it thoroughly, test every edge case you can think of, and do not trust it blindly.
+
+Let us take a simple example. Imagine you are building a REST API with basic CRUD operations and your database schema is already defined. That is a task AI can easily handle, saving you maybe 30 minutes of routine work. But once the code is written, your job is not done. You need to ask yourself if authorization is implemented correctly, if the right properties are exposed through the API or worse, if there are any sensitive fields leaking out. Are the database queries efficient? Is caching implemented in a sensible way? Is there proper rate limiting? And are the endpoints named consistently and meaningfully?
+
+Only after checking all of these things and making the necessary improvements is the code truly safe and ready to use.
+
+In fact, this blog post is also partly written with AI. I created the bullet points and structure and the AI helped shape them into coherent text. But I reviewed and validated every section. That is exactly how it should be. AI assists, you remain in control.
+
+When you encounter something new, you can absolutely use AI to support your learning process. But do not start by asking it to write the solution. First, think through the problem yourself. What would be an efficient and clean solution? Only then should you turn to AI, not to write code for you but to provide background information, suggest known algorithms, or point you to RFCs and technical standards that are relevant to your use case.
+
+With that knowledge you are in a much better position to write correct and understandable code and more importantly to reason about it.
+
+It really is that simple.
+
+When learning new things, AI can be a solid partner. It can help prepare study material or generate more advanced questions to test your understanding. It is a great tool for accelerating learning but it should never replace your own thinking.
+
+AI has the potential to boost your productivity beyond what was possible with traditional tools. But it should stay what it is, a tool. If you let AI do all the thinking, your value as a developer drops to zero.
+
+So do not be careless. Do not be passive. Use your brain.
+
