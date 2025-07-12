@@ -1,6 +1,6 @@
 ---
 title: "Vibe Coding is shit. Stop it"
-date: 2025-04-18T1:00:00+01:00
+date: 2025-07-12T1:00:00+01:00
 tags:
   - AI
   - vibe coding
