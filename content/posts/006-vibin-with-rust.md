@@ -1,63 +1,74 @@
 ---
 title: "I start loving Rust"
-date: 2025-07-12T1:00:00+01:00
+date: 2025-07-13T1:00:00+01:00
 tags:
   - rust
   - programming languages
 comments: true
 ---
 
-- I had my first contact with rust in 2021 about 4 years ago. Back then I had a really hard time working with it.
-- Today I absolutely love rust. Not just because I know the language now a little better, but also because I found my ideal tech stack.
-- I would like to share my experience with you and also get a little into why I prefer rust now over golang for my new projects. 
+I first got in touch with Rust in 2021, which is about four years ago. Back then, I found it really difficult to work with. The compiler was strict, the borrow checker was confusing, and the language felt unfamiliar overall.
+
+Today, things are very different. I genuinely enjoy working with Rust. This is not only because I understand the language better now, but also because I have found a tech stack that suits my way of building software.
 
 ## What technologies did I use before rust?
 
-- Before I started learning rust I was mainly using Java and especially golang. 
-- Golang in combination with [fiber](https://gofiber.io/) as my library of choice for web development. 
-- The thing I loved about golang back then is the same thing I now love about rust. The simplicity. I came from heavy frameworks like [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot) and [Symfony](https://symfony.com/) that all have a big ecosystem for developing web applications.
-- Don't get me wrong. I still love especially Quarkus and Symfony and enjoy working with them. 
-- But golang was lightweight. Very simple error handling, no complex try-catch clauses. High performance without having to worry too much about memory management or else. And that is the reason why I was using golang for a very long time.
-- Actually I still use it today. Not as much as back then, but I still enjoy using it for lightweight microservices. 
-- It's easiness to use together with the broad support and nearly unlimited possibilities you could use golang for made it my language of choice before I really discovered rust.
+Before I started learning Rust, I was mainly working with Java and especially Go. For web development, I used Go in combination with [Fiber](https://gofiber.io/) as my library of choice.
+
+What I loved about Go back then is actually the same thing I love about Rust today: simplicity. I came from heavier frameworks like [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot), and [Symfony](https://symfony.com/), all of which offer large ecosystems for building web applications.
+
+Don't get me wrong, I still really like working with Quarkus and Symfony. They are great tools, and I enjoy using them. However, Go felt lightweight. Error handling was simple, without the need for complex try-catch clauses. It offered high performance without requiring me to think too much about memory management or other low-level concerns. That was the main reason why I used Go for a long time.
+
+In fact, I still use Go today. Not as much as I used to, but I still find it a great choice for lightweight microservices. Its ease of use, broad support, and the almost endless range of use cases made Go my go-to language—at least until I truly discovered Rust.
 
 ## My personal rust learning experience
 
-- Learning rust is not similar to learning other programming languages.
-- You will need to understand many theoretical concepts before you can actually start writing code.
-- I had no interest in theory back then, which later was a big mistake. I had a really hard time doing almost anything. 
-- Traits? I didn't know how to use them. Copy and Clone? No clue? Borrow checker? What the hell is this? Makros? Like keyboard makros? tokio, futures? Isn't tokio a city? Rc, Arc, Mutex, RwLock, Cow? I dont't know what that is???
-- To be fair, some of that stuff is still magic to me today. I have never written a complex macro or know the exact difference between all the async runtimes.
-- I will discover that in the future by looking closer into it. 
-- But currently I am at a stage where I would say I come around pretty well when it comes to just writing my microservie applications that query and store some data from the database and maybe do some calculations. 
-- To be clear I am far away from mastering rust. I am not even on a intermediate level I would say. There is still a lot to learn. But I know enough to get some work done. 
-- So if you want to learn rust, better start reading the rust book. This is what I should have done in the first place. 
-- In fact I actually own it as the print version now. But you don't need to buy it. Just use the online version.
+Learning Rust is not like learning most other programming languages. Before you can even start writing useful code, you need to understand quite a few theoretical concepts.
+
+Back when I first tried to learn Rust, I had very little interest in theory. That turned out to be a big mistake. I struggled a lot and found even basic things difficult. Traits? I had no idea how to use them. `Copy` and `Clone`? No clue. The borrow checker? What even is that? Macros? I thought they were like keyboard macros. And then there was `tokio`, `futures`—wasn't Tokio the name of a city? `Rc`, `Arc`, `Mutex`, `RwLock`, `Cow`? I didn’t know what any of that meant.
+
+To be fair, some of it still feels like magic to me today. I’ve never written a complex macro, and I couldn’t tell you the exact differences between all the async runtimes. But that’s fine. I plan to explore those topics more deeply in the future.
+
+Right now, I’m at a point where I can build microservice applications that query and store data in a database and maybe do some calculations. And that’s good enough for me at this stage. To be clear, I’m still far from mastering Rust. I wouldn’t even call myself an intermediate developer in the language. There is a lot left to learn. But I know enough to get things done.
+
+So if you want to learn Rust, do yourself a favor and start by reading *The Rust Programming Language* book. That’s what I should have done in the first place. I actually own the print version now. But you don’t have to buy it—the online version is available for free.
+
 
 ## What I use it for now
 
-- I almost replaced the work I would have done with golang by rust now. All my monolith or microservice applications that I write are rust powered. Well most of them. Of course I still use Kotlin and golang for some stuff where I might wanna use it. 
-- I mainly use [actix](https://actix.rs/) as my library of choice for web development. It is simple to use and has exactly the features I need.
-- For database connectivity I am currently stuck with sqlx. But I also used rust for another project. But diesel was a little too heavy for me. I like it simple.
+By now, I’ve almost completely replaced the work I used to do with Go by using Rust instead. Most of the monoliths and microservice applications I write today are powered by Rust. Well, most of them. I still use Kotlin and Go for certain use cases where they make sense or where I just feel like using them.
+
+For web development in Rust, I mainly use [Actix](https://actix.rs/) as my framework of choice. It is simple to use and offers exactly the features I need.
+
+When it comes to database connectivity, I’m currently using `sqlx`. I also tried Rust for another project where I initially used Diesel, but it felt a bit too heavy for my taste. I tend to prefer simpler solutions, and `sqlx` fits that mindset better.
+
 
 ## Why do I love it so much
 
-- Well you might ask why I now so in love with rust when I had such a hard time learning it.
-- When I write rust code, it is solid. And I do not only mean memory safe. All those little mistakes you might make with 
-other languages are just non-existant due to the strict type system. 
-- When I use sqlx I can only use specific types for my database structs, because it is validated against the database schema at compile time. As well as all the SQL queries. It is ensured the query structure matches the data types I store the query result in. 
-- I barely encounter bugs that are not catched at compile time. And when I do, they are relatively easy to find, because I know which specific errors cannot happen. Debugging drives me crazy in languages like Kotlin or PHP. But in rust it is relatively chill. 
-- Furthermore, I really like the simple approach of rust. This might seem paradox at first, because it is hard to learn. But once you encountered how the basics work, it is really easy to get results fast and without unnessesary boilerplate code. 
-- You can write code without understanding deeper principles of rust. But if you want to, you can go really deep and use some macros for your app to even simplify some things. And remember, all of this with memory-safety as a feature. 
-- I am well familiar with my rust ecosystem now. So I can write functionality as fast as I can in Kotlin, PHP or golang. Maybe a little faster sometimes. But with the advantage of never having to worry about data type mismatches, null pointer exceptions or other runtime errors. My ecosystem covers them all. 
-- Invalid time format provided in JSON body? If actix can't deserialize it using serde, actix will handle the error. 
-- I can be 100% sure that the data I get as a request or return as a response is technically exactly what I want. 
-- And this is what I love so much about rust. It might be hard to ensure memory-safety and sometimes implementing features would be way easier using other languages. But the effort pays off on the long run. 
+You might ask why I’m now so in love with Rust, even though I had such a hard time learning it in the beginning.
+
+The answer is simple: when I write Rust code, it is solid. And I don’t just mean memory safety. All those small mistakes that can easily slip through in other languages are basically non-existent in Rust, thanks to its strict type system.
+
+When I use `sqlx`, for example, I can only use specific types for my database structs because the code is validated against the database schema at compile time. The same applies to SQL queries. It’s ensured that the query structure matches the data types I use to store the result.
+I rarely run into bugs that are not caught at compile time. And when I do, they’re usually easy to track down because I know exactly which kinds of errors cannot happen. Debugging in languages like Kotlin or PHP often drives me crazy. In Rust, it’s relatively calm and predictable.
+
+I also really appreciate Rust’s simple approach to writing code. This might sound paradoxical at first, since learning Rust is hard. But once you understand how the basics work, you can get results quickly and without unnecessary boilerplate.
+You can write useful code in Rust without fully understanding all the deeper concepts. But if you want to go deeper, you can take advantage of powerful features like macros to simplify and automate parts of your codebase. And throughout it all, memory safety is built in by design.
+
+By now, I’m very familiar with my Rust ecosystem. I can write functionality just as fast as I can in Kotlin, PHP, or Go—sometimes even faster. But with one major advantage: I never have to worry about data type mismatches, null pointer exceptions, or other runtime errors. My toolchain takes care of all that. 
+Invalid time format in a JSON body? If Actix can’t deserialize it using `serde`, it will handle the error for me.
+
+I can be completely confident that the data I receive in requests and send in responses is exactly what I expect, both in format and type.
+And that’s what I love so much about Rust. It might take more effort to ensure memory safety and implement certain features compared to other languages. But that effort pays off in the long run.
+
 
 ## Will I stick to rust in the future?
 
-- This question is pretty simple to answer: Yes.
-- But the answer might the not that simple as it seems. I really love rust and I want to learn more about the language itself. I want to learn about the more advanced features.
-- But I will not become a typical rust geek. Not everthing I build will be done in rust in the future. The language is my favorite language currently, no doubt. But I may also learn zig in the future and take a look at how much I like zig. Even if it is pretty unpopular currently it seems like a highly interesting language to me. 
-- And I will also use other languages for my project. I will stick to golang and kotlin for some microservices for sure. 
-- But rust will stay my primary backend language for now. I am also convinced it will grow even more in popularity in the future due to it's advantages and ecosystem. 
+The question is pretty simple to answer: yes.
+
+But the full answer is not quite as straightforward as it might seem. I really love Rust, and I want to continue learning more about the language. I’m especially interested in exploring its more advanced features and digging deeper into how it works.
+
+That said, I won’t become a typical Rust purist. Not everything I build will be written in Rust. It is definitely my favorite language at the moment, no doubt about that. But I’m also curious about other technologies. For example, I’m considering learning Zig at some point. Even though it’s still relatively unpopular, it seems like a very interesting language to me.
+I will continue to use other languages for my projects as well. Go and Kotlin will definitely remain part of my tech stack for specific use cases, especially when building microservices.
+
+However, Rust will stay my primary backend language for now. And I’m convinced that it will continue to grow in popularity over time, thanks to its strong advantages and evolving ecosystem.
