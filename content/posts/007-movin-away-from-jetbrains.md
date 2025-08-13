@@ -34,6 +34,20 @@ comments: true
 
 ## Why use something else?
 
+- The first thing that anoyed me personally was the high memory usage of all the JetBrains IDEs. I often have to work with very large codebases. Sometimes there are 100k+ lines of code in a project. And I often have multiple windows open because I need to look up something in a different project.
+- So my PhpStorm often hits 8 GB RAM usage.
+- The indexing feature of Jetbrains is blessing and hell at the same time. I love it how fast I can search through everything and get quick results on everything. But in large projects, indexing takes a lot of time and slows down the whole IDE.
+- Because of the high workload I also discovered some crashes in the last few months. Sure, it might just be be, but it is very anoying, when I want to work and have to wait 5 minutes for PhpStorm to index the whole project.
+- Furthermore, I became some sort of performance enthusiast after I started working with Rust. Most of my current personal projects are written in rust.
+- And I had a very bad experience working with RustRover back then. It was very slow and sometimes didn't even recognize some macros or functions that I wanted to import.
+- I heard it has been rapidly improved. And I am sure it works much better now.
+- I started using Zed due to a recommendation of a friend of mine. First it was a pretty tough start, because I missed some of the features. Initially I didn't even had proper git integration (it has now).
+-  But over time I really enjoyed this simple experience. I used the raw git CLI, which was actually pretty fun.
+-  I somehow got used to this lightweight development environment. For my personal projects I do not need complex debugging, version control, database inspections or different language levels.
+-  Zed has some plugins for rust and react which is everything I need. I can develop my personal projects very fast with this setup. No long time indexing, no crashes, just the pure experience of running everything from your terminal or as a docker container.
+-  I somehow really love this. I recognized that I do not need all this "bloat" that JetBrains offers me. No direct dev container integration, no live real time SQL query validation, no direct version downloading from the editor itself. I just don't need that.
+-  I just love this minimal experience. It gives me deep level control over everything. No further abstraction through the IDE. It also helps to actually understand how certain things work.
+
 ## To what will I stick in the future?
 
 - Jetbrains full text search is really nice. 
