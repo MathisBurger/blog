@@ -1,6 +1,6 @@
 ---
 title: "Why I start avoiding Jetbrains for my personal projects"
-date: 2025-08-12T1:00:00+01:00
+date: 2025-08-14T1:00:00+01:00
 tags:
   - jetbrains
   - sideprojects
@@ -50,4 +50,10 @@ comments: true
 
 ## To what will I stick in the future?
 
-- Jetbrains full text search is really nice. 
+- To be fair this is no simple decision. And I am not sure until now.
+- For work projects I will definetly stick to Jetbrains software. Just because I really rely on the full text search feature for finding stuff I need.
+- And also within the projects I am working on, I actually need the deep debugger integration and SQL real time statement validation.
+- And I also need the full support for git based version control. I often have multiple projects open that live on multiple git repos, or sometimes even persists of multiple git submodules. To keep track of all that I just need the git integration. And also resolving complex merge conflicts on high frequency repositories is so much easier and less painful with Jetbrains IDEs.
+- But for personal projects there is less need for something like that. For personal projects I want something more lightweight. Something lean. And for that my current setup with Zed is just fine.
+- So I will stick with that for now as long as the react and rust support stays as good as it is now. But I can also think about switching back to Jetbrains when it all becomes much faster than it is now.
+- But for now I love my Zed setup for personal projects and my JetBrains setup for work projects. 
