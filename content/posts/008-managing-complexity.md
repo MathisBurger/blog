@@ -2,7 +2,7 @@
 title: "Why managing complexity in software engineering is the key to everything"
 date: 2025-04-01T1:00:00+01:00
 tags:
-  -complexity 
+  - complexity 
   - software
 comments: true
 ---
@@ -45,6 +45,19 @@ Just imagine how many different configuration options for seats there are: Norma
 
 Without proper complexity management it's impossoble to ensure the car works as expected at all. Of course this is a extreme example, but there are other examples of applications that handle very loose coupled usecases that can lead to unwanted side effects. 
 
+-- AI check from here
+
+Let me provide you with another example. A more regular example. Microservices are a modern trend. Everyone implements application using them and they are mostly developed within an event driven architecture. 
+This means every service does not call any other service directly but through a message broker. So we actally do not know where the message is processed and where not. To debug this is a nightmare because we can run into multiple side-effects and bugs that are caused only by the sheer complexity of those architectures. Therefore, companies like Celonis only exist. They only do exist to actually find out what happend in those highly loose coupled distributed architectures. 
+If you have not done proper complexity management I wish you the best being on call and trying to find the cause for the random bug that caused your production env to go down. 
+
+Log monitoring might help to find the bug but it does not solve the root cause: complexity. If your system is too complex for you to know what happend when you must either ensure that certain things can only happen under certain conditions (and you must document those properly and ensure they are updated properly) or you have to rebuild some stuff from the ground up to ensure you can handle the complexity of the overall application. 
+
 # How can I manage complexity then?
 
+I already talked a little about how to manage it, but let me dig a little bit deeper now. 
+
+
 # Lets put it all together
+
+Needs writing
