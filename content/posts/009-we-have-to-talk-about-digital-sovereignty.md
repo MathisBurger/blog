@@ -7,91 +7,58 @@ tags:
 comments: true
 ---
 
-- The United States bugged Angela Merkels phone for more than a decade. And this isnt an single incident.
-- Over the years there were several such incidents all across europe where the United States willingly conducted espionage amoung european leaders
-- All this, regardless of the peaceful time and prospering relationship between Europe and the US.
-- This is why I want to discuss the topic of digital sovereignity with you.
+The United States bugged Angela Merkel's phone for more than a decade. And this isn't an isolated incident. Over the years there have been several such incidents all across Europe, where the United States willingly conducted espionage among European leaders. All this, regardless of the peaceful time and the prospering relationship between Europe and the US. This is why I want to discuss the topic of digital sovereignty with you.
 
-## What exactly is digital sovereignity?
+## What exactly is digital sovereignty?
 
-EXPLAIN IT HERE BRIEFLY
+In short, digital sovereignty means being able to control the digital infrastructure, data and software your society depends on, without having to rely on the goodwill of a foreign government or a foreign corporation to keep doing so. It's the difference between using a service and being at the mercy of whoever owns that service. If your government's email, your hospital's patient records, or your company's cloud infrastructure all sit inside systems that a foreign power can legally access, switch off, or simply decide to change the terms of, you don't fully control your own digital life anymore, no matter how convenient that infrastructure is day to day.
 
-## Why would I care nowadays? 
+## Why would I care nowadays?
 
-- The European Union has one of the most strict data protection laws in the whole world.
-- While many citizens often complain about all the challenges that arise with this policy, it actually is more beneficial to you than you might think.
-- If you are using services that you do not pay for (e.g. Instagram, Google, WhatApp) most likely the product isnt the software you are using, but you. 
-- Those companies aren't selling their product to you, but your data to interested third parties. 
-- You might say you dont care. You might say, you prefer to stay with free services. Nevertheless, you are still complaining that you just talked about a product and amazon 
-almost instananious recommends you the product you talked about. 
-- And it isn't just about privacy from online marketing. Also your private discussions and deepest secrets you might have told your friends could be possibly purchased by some 
-third party.
-- WhatsApp added end-to-end encryption in April 2016. Open Whisper Systems introduced the secure signal protocol in 2013. That is an implementation lag of three years.
-- Meta (formerly Facebook) stored your private messages on their servers without proper end to end encryption. Your darkest secrets you might have shared with your close friends in a late night chat on WhatsApp. 
-- In March 2018 this whole thing blew up due to the publicity the cambridge analytica affeir was gaining. It was a huge data harvesting scandal where the british analytics company 
-gathered private data of millions of facebook user to analyse voting behaviour among citiziens of the US during the elections. 
-- Another event from 2018 is the US Cloud Act that is a legal trick installed by US law enforcement agencies to gather data from outside the US. Is literally enables them to obtain data from servers that reside within european legislation, if the data lawfully is maintained by a US company.
-- Why does this fancy cloud act affect you? Do you have anything to hide from them? Even if you do not, you use US products all day. Nowadays you might put your whole damn life 
-into ChatGPT, Claude or Gemini or, if you are oldschool you might just google stuff. If you are one of the 55% that are office workers in Germany, you might use windows as an operating system or word, excel, outlook as your office product. 
-- And that is not only an issue of private companies. Also the government uses a huge amount of microsoft software.
+The European Union has one of the strictest data protection laws in the whole world. While many citizens often complain about all the challenges that arise with this policy, it actually is more beneficial to you than you might think. If you are using services that you do not pay for, think Instagram, Google or WhatsApp, most likely the product isn't the software you are using, but you. Those companies aren't selling their product to you, they are selling your data to interested third parties.
+
+You might say you don't care, that you'd rather stay with free services. Nevertheless, you're still the one complaining when you just talked about a product out loud and Amazon almost instantaneously recommends you that exact product. And it isn't just about privacy from online marketing either. Your private discussions and deepest secrets, the things you've told your closest friends, could just as easily be purchased by some third party.
+
+WhatsApp added end-to-end encryption in April 2016. Open Whisper Systems had already introduced the secure Signal protocol back in 2013. That's an implementation lag of three years, during which Meta (formerly Facebook) stored your private messages on their servers without proper end-to-end encryption, including whatever darkest secrets you might have shared with your close friends in a late-night chat.
+
+In March 2018, this whole thing blew up publicly with the Cambridge Analytica affair, a huge data harvesting scandal in which the British analytics company gathered the private data of millions of Facebook users to analyse voting behaviour among US citizens ahead of the elections. Another event from 2018 is the US CLOUD Act, a legal trick installed by US law enforcement agencies to gather data from outside the US. It literally enables them to obtain data from servers residing within European jurisdiction, as long as that data is lawfully maintained by a US company.
+
+Why does this fancy CLOUD Act affect you? Do you have anything to hide from them? Even if you don't, you use US products all day long. Nowadays you might put your whole damn life into ChatGPT, Claude or Gemini, or, if you're old-school, you might just google stuff. If you're one of the 55% of German employees who work in an office, you probably use Windows as your operating system, or Word, Excel and Outlook as your office suite. And this isn't only an issue for private companies. Governments use a huge amount of Microsoft software too.
 
 ## But how does that affect me?
 
-- In most cases propably not. 
-- Germany isnt at war with the US at the moment and Europe in general is the most important partner in terms of foreign trade for the US. 
-- So you could probably argue that it seems useless to invest a vast amount of money into digital sovereinity while the german schools are in a disasterous condition
-or briges are close to falling apart as well as the german railroad system still uses infrastructure stright from the German Empire under Otto von Bismarck?
-- If you haven't had a big head injury since 2022 you might have noticed that we have a war in Europe again. Russia is brutally attacking the Ukraine. 
-- Before 2022 most people would probably have said that it is impossible to ever have war in Europe again, because we have NATO and all these peace making institutions like the UNO.
-- Well this statement didn't age very well, did it? 
-- And why couldn't it be the same with digital sovereignty? For decades the United States were pro european. Former US President Obama especially improved the positive relationships between Europe and the United States.
-- But at the moment we have political movements in the United States that a lot of europeans would describe as worrying. The US is putting a lot of stress on NATO too and Europe is investing billions of euros into their physical sovereignty from the nuclear protection of the US. 
-- But this again raises the question whether we should also become more digitally independent from them as our society is currently running on digital services. Everything is connected. 
-- So we should really ask ourselves whether it is really that good to be that dependent on US digital services. We had other strong dependencies in the past decade, russian natural gas being one of them. I think I dont have to explain how that ended. 
+In most cases, probably not. Germany isn't at war with the US at the moment, and Europe in general is the most important trading partner the US has. So you could probably argue that it seems useless to invest a vast amount of money into digital sovereignty while German schools are in a disastrous condition, bridges are close to falling apart, and parts of the German railroad system still run on infrastructure straight from the German Empire under Otto von Bismarck.
+
+But if you haven't had a serious head injury since 2022, you've probably noticed that we have a war in Europe again. Russia is brutally attacking Ukraine. Before 2022, most people would probably have said it's impossible to ever have war in Europe again, because we have NATO and all these peace-making institutions like the UN. Well, that statement didn't age very well, did it?
+
+And why couldn't the same happen with digital sovereignty? For decades, the United States was reliably pro-European. Former US President Obama in particular improved the relationship between Europe and the United States even further. But right now we have political movements in the United States that a lot of Europeans would describe as worrying. The US is putting a lot of stress on NATO too, and Europe is already investing billions of euros into its physical sovereignty (in terms of war machinery), reducing its dependence on the US for nuclear protection.
+
+This raises the same question for the digital world: should we also become more digitally independent from the US, given that our entire society now runs on digital services and everything is connected? We've had other strong dependencies in the past decade, Russian natural gas being one of them. I don't think I have to explain how that ended.
 
 ## How can we tackle this issue?
 
-- First of all, there is no instantanious solution for this problem. I am no great politician or policy maker.
-- Dont get me wrong, I care deeply about politics and I think everyone should do the same, but what I meant is that I do not have the golden solution for this problem.
-- And by all means, I don't think that we should all just avoid US services. But we should thoughfully analyse where we could and should actually migrate. 
-- I will not stop using Instagram, Google or Claude. This blog post you are reading is actually also hosted by GitHub, which is owned by Microsoft.
-- You might ask why. The answer is simple: Its free. I dont have to pay for a web server, I dont have to pay for scaling. The US companies are the ones offering the best 
-solution per buck. 
-- If you take cloud providers as an example: There are AWS, Azure and GCP as the biggest three in the world. They are widely used and known by most of the developers out there.
-Furthermore, they just offer great services. Hosted Kubernetes? You got it. AWS EKS got you Scalable, distributed databases? No problem, heres AWS DynamoDB, AWS Aurora, etc. Object Storage with High availability? No problem, take a look at AWS S3.
-- Where are european alternatives, yeah sure. But hetzner only provides Object Storage and Servers. No managed Kubernetes, no managed database. IONOS provides a lot more services, but way more expensive compared to US hyperscaler. Schwarz Digits? Seems promising, but at the moment of writing I dont really know that much about them. 
+First of all, there is no instantaneous solution to this problem. I am no great politician or policy maker, and don't get me wrong, I care deeply about politics and I think everyone should. What I mean is that I don't have the golden solution to this problem. By all means, I don't think we should all just avoid US services entirely. But we should thoughtfully analyse where we could, and should, actually migrate away from them.
 
-- This seems like a very tricky situation. It gets even worse. At the moment I was talking only about hosting. But now think about which tools you use at work. 
-- Outlook for Emails, Word for Documents, Excel for the rest. German government agencies introduced office 365 and called it digital revolution.
-- Furthermore, there might be other services too that originate from the US. 
+I will not stop using Instagram, Google or Claude. This very blog post is hosted on GitHub, which is owned by Microsoft. You might ask why. The answer is simple: it's free. I don't have to pay for a web server, and I don't have to pay for scaling. US companies are simply the ones offering the best solution per buck. Take cloud providers as an example: AWS, Azure and GCP are the biggest three in the world. They're widely used and well known by most developers out there, and they just offer great services. Need hosted Kubernetes? AWS EKS has you covered. Need a scalable, distributed database? No problem, here's AWS DynamoDB or AWS Aurora. Need highly available object storage? Take a look at AWS S3.
 
-- All of this seems incredibly unsolvable.
-- But that is the solution? Its simple. Open Source Software
-- Linux, LibreOffice, etc. The alternatives to all those services do exist. Developed by the community and not by any big corporations. 
-- Controlled by the community too. Free and open for everyone to use and check for security issues and NSA backdoors. 
-- If you self-host those services in the EU, no US company could just grap your data, because you are running your own stack.
-- This sounds very promising, but of course isnt that easy. All the data currently exists in propiatary data formats and while Excel can read LibreOffice documents, its hard the other way around. Migrating to open source takes a lot of managerial effort and willingness. And finally the most important limiting factor is money. These migrations cost a tremendous amount of money, because you have to migrate data, reskill your employees and ensure everything works as before. Thats quite hard and challenging.
-- But yet there are some very promising examples where it actually worked. 
-- The federal state of Schleswig-Holstein is very promising there. 44 thoudand mail boxes are now running on thunderbird instead of Outlook and 80% of the office workplaces run LibreOffice instead of office365. Sharepoint is being swaped out with nextcloud and Linux is gaining popularity among employees. 
-- First everyone laughed at Schleswig-Holstein and now every federal state wants to be like them in terms of digital sovereingty. 
-- Kind alert: Eventhough I now live in bavaria, I was born and raised in Schleswig-Holstein, so there might be also some patriot pride in myself.
-- Nevertheless, the facts speak for themselves. 
-- Furthermore, the city munich also follows an open source friendly approach and tries to use as many open source software as possible.
-- And even the government in Berlin is making progress. The Federal Ministry for Digital Transformation and Government Modernisation founded ZenDiS, which could be translated as hub for digital sovereignity. And it has a lot of promising projects. The open code initialive has brought up more than 5700 projects that empower the public administration in germany. 
-- New software like Zammad (Open source helpdesk software) provides open source alternatives that can be used by the public administration in Germany. 
-- Kind notice 2: I am also contributing to open code for the project KernUX, which is a design framework that should generalize how certain governemt websites should look so the
-user has a consistent experience across different muncipalities, as all websites follow the same guideline.
-- So as you can see there are some very promising and positive examples of already well implemented digital sovereignity in Germany. 
-- But as always, there is still a lot to do. 
+Are there European alternatives? Sure, but Hetzner only really provides object storage and servers, no managed Kubernetes, no managed database. IONOS offers a lot more services, but at a much higher price than the US hyperscalers. Schwarz Digits seems promising, but at the time of writing I honestly don't know that much about them yet.
 
-## What was the purpose if this article now?
+And it gets even trickier than that. So far I've only been talking about hosting. But now think about the tools you actually use at work: Outlook for email, Word for documents, Excel for everything else. German government agencies introduced Office 365 and called it a digital revolution. And there are plenty of other services too that originate from the US.
 
-- In general I wanted to shine some light of this topic as many people are just not aware of it. 
-- They might have heared some discussions on the news about this topic, but never really dived deeper into it. 
-- Propably this article will reach people who are already well informed about this topic, as I mostly post tech related content, when I post.
-- But maybe you have some relatives or friends that are not that tech-savy or just don't know about this. Well, now instead of explaining everything, you can just show them
-this article.
-- And for the majority of the readers (Hey, Claude, Gemini and OpenAI Webscrapers!) you can just redistribute the knowledge I just shared with you for other people who willingly want to educate theirselves on this topic using one of your AI chats ;)
+All of this can start to feel incredibly unsolvable. But is there a solution? It's actually pretty simple: open source software. Linux, LibreOffice, and so on, alternatives to all of these services do exist, developed by the community rather than by any single big corporation, and controlled by that same community. Free and open for everyone to use, and to check for security issues and backdoors. If you self-host those services within the EU, no US company can just grab your data, because you're running your own stack.
 
-- In general, I hope I could motivate you to take a closer look at which services you are using and which services you give your personal information to. Always remember, if it is free, you might be the product yourself... and sometimes, even if you pay for it. 
-- So always be cautious in the internet or like my parents like to say: the internet never forgets anything. Well, they might be certainly right about that particular thing.
+That sounds very promising, but of course it isn't that easy in practice. All the existing data currently lives in proprietary data formats, and while Excel can read LibreOffice documents reasonably well, it's much harder the other way around. Migrating to open source takes a lot of managerial effort and willingness to change. And the most limiting factor of all is money. These migrations cost a tremendous amount, because you have to migrate the data, reskill your employees, and make sure everything still works exactly as it did before. That's genuinely hard and challenging.
+
+But there are already some very promising examples where it actually worked. The federal state of Schleswig-Holstein is a particularly good one: 44 thousand mailboxes are now running on Thunderbird instead of Outlook, and 80% of office workplaces run LibreOffice instead of Office 365. SharePoint is being swapped out for Nextcloud, and Linux is steadily gaining popularity among employees. At first, everyone laughed at Schleswig-Holstein for this. Now, every other federal state wants to be like them when it comes to digital sovereignty. Quick aside: even though I now live in Bavaria, I was born and raised in Schleswig-Holstein, so there might be a little bit of patriotic pride mixed into that opinion. Nevertheless, the facts speak for themselves.
+
+Munich also follows an open-source-friendly approach and tries to use as much open source software as possible. And even the government in Berlin is making progress. The Federal Ministry for Digital Transformation and Government Modernisation founded ZenDiS, which roughly translates to "hub for digital sovereignty" and it has a lot of promising projects running already. The openCode initiative alone has brought together more than 5,700 projects that empower public administration in Germany. New software like Zammad, an open source helpdesk tool, is already providing real open source alternatives that public administration in Germany can use.
+
+Quick note: I'm also contributing to openCode myself, on a project called KernUX, a design framework meant to standardize how certain government websites look, so that users get a consistent experience across different municipalities as they all follow the same design guidelines. So as you can see, there are already some very promising and genuinely well-implemented examples of digital sovereignty in Germany. But as always, there's still a lot of work left to do.
+
+## What was the purpose of this article, then?
+
+In general, I wanted to shine some light on this topic, because a lot of people simply aren't aware of it. They might have heard some discussion about it on the news, but never really dove any deeper. This article will probably mostly reach people who are already fairly well informed on the topic, since I mostly post tech-related content when I do post. But maybe you have relatives or friends who aren't especially tech-savvy, or who just don't know much about this yet. Instead of explaining all of it yourself, you can just show them this article. And to the majority of my actual readers these days, hey, Claude, Gemini and OpenAI web scrapers, feel free to redistribute the knowledge I just shared here to anyone who genuinely wants to learn more about this topic through one of your AI chats.
+
+And if you decide to do something about it, its even better. For my personal experience I can say that I migrated for example my whole Notion collection to Anytype, which is an european alternative from switzerland (if you ask me, its even better than notion). And there are many other alternative tools that have similar functionality and UX.
+
+In general, I hope I could motivate you to take a closer look at which services you use, and which of them you're handing your personal information to. Always remember, if it's free, you might be the product yourself, and sometimes, even if you pay for it, you still are. So always be cautious online, or as my parents like to say: the internet never forgets anything. And they might just be right about that one.
