@@ -55,7 +55,15 @@ Log monitoring might help to find the bug but it does not solve the root cause: 
 
 # How can I manage complexity then?
 
-I already talked a little about how to manage it, but let me dig a little bit deeper now. 
+I already talked a little about how to manage it, but let me dig a little bit deeper now.
+
+- Law of Demeter
+- Abstraction vs Indirection
+- Use almost all the time pure functions (no call to global variable)
+- Bounded Contexts
+- CQRS
+- As complex distributed systems are harder to manage, you could also employ formal analysis using Feature Models to find dependencies and analyse the tree of connections
+and therefore, reduce variability
 
 
 # Lets put it all together
