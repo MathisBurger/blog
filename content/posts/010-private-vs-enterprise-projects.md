@@ -39,3 +39,7 @@ If you want to overengineer, just continue to do so. The same applies to develop
 I recently discussed an application idea with a friend of mine. It was an application that received images and displayed them, and the images should be available in other sizes as well. We discussed two approaches: either you build everything as a blocking workflow, first uploading the image to S3 and then resizing it, or you use messaging to asynchronously perform the resizing in the background. To be fair, for a personal project both of these approaches are fairly reasonable.
 
 What can we learn from this? We could have split the app into 3 other microservices, but we decided not to. We went with a compromise: only if it is absolutely useful to do something, do it.
+
+## Conclusion
+
+Private and enterprise projects live under completely different constraints, so it never makes sense to judge one by the other's standards. Overengineering your side projects isn't a problem in itself, and neither is skipping architecture entirely, both are fine as long as you're having fun. Just stay aware of the habits you're building, and try to make deliberate choices instead of defaulting to either extreme. A little bit of thought about what actually suits your use case goes a long way.
